@@ -17,11 +17,15 @@ Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izleniml
 
 ## Hello 👋
 
-I’m **Birdman**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I’ll use this space to share the game projects I explore and work on.
+I’m **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I’ll use this space to share the game projects I explore and work on.
+
+You can just call me **Birdman**.
 
 ## Hallo 👋
 
-Ich bin **Vogelmann**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich hier Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
+Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich hier Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
+
+Ihr könnt mich einfach **Vogelmann** nennen.
 
 <div align="center">
   🐦 <em>Kuş Bakışı adı, 2020'de hayatıma giren sultan papağanından ve oyunlara farklı bir açıdan bakma fikrinden geliyor.</em>
