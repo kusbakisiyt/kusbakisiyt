@@ -1,35 +1,33 @@
 <div align="center">
-  <img src="assets/kus-bakisi-banner.png" width="100%" alt="Kuş Bakışı — gece şehri ve ağ desenli profil kapağı">
-
-  <h1>Kuş Bakışı</h1>
-
-  <p>
-    <strong>Oyun yerelleştirme • Altyazı • Retro oyunlar</strong><br>
-    <em>Game localization • Subtitles • Retro gaming</em><br>
-    <em>Spielelokalisierung • Untertitel • Retro-Gaming</em>
-  </p>
+  <img src="assets/kus-bakisi-banner.webp" width="100%" alt="Kuş Bakışı — gece şehri ve ağ desenli profil kapağı">
+  <img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı — oyun yerelleştirme, altyazı ve retro oyunlar">
 
   <a href="https://www.youtube.com/@kusbakisiyt">
     <img src="https://img.shields.io/badge/YouTube-Kuş%20Bakışı-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Kuş Bakışı YouTube kanalı">
   </a>
-  <img src="https://img.shields.io/badge/Türkçe-TR-E30A17?style=for-the-badge" alt="Türkçe">
-  <img src="https://img.shields.io/badge/English-EN-1F6FEB?style=for-the-badge" alt="English">
-  <img src="https://img.shields.io/badge/Deutsch-DE-111827?style=for-the-badge" alt="Deutsch">
 </div>
 
----
+<img src="assets/web-divider.svg" width="100%" alt="">
 
 ## Merhaba! 👋
 
-Ben **Kuş Bakışı**. Sevdiğim eski oyunları yeniden keşfediyor; Türkçe yerelleştirmeler, altyazılar ve küçük araçlar hazırlıyorum. Yaptığım çalışmaların hepsini burada ücretsiz paylaşacağım.
+### Her türden oyuna Kuş Bakışı!
+
+Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izlenimlerimi ve gerçek deneyimlerimi paylaşıyorum. Popüler olanın yanında gözden kaçan iyi oyunların da peşine düşüyorum. Burada ise sevdiğim eski oyunlar için hazırladığım yerelleştirmeleri, altyazıları ve küçük araçları ücretsiz paylaşacağım.
+
+Her şey 2020’de bir sultan papağanını yanıma almamla başladı. Minik yol arkadaşım bana farklı bir bakış açısı kazandırdı; ben de bu **Kuş Bakışı**nı oyun dünyasına taşıdım.
 
 ## Hello! 👋
 
-I’m **Kuş Bakışı**. I revisit the classic games I love and create localizations, subtitles, and small tools for them. Everything I make will be shared here for free.
+I’m **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Here, I’ll share my free localizations, subtitles, and small tools for the classic games I love.
+
+It all began in 2020 when a cockatiel became my little companion and inspired me to look at things from a different point of view — a true **bird’s-eye view** of gaming.
 
 ## Hallo! 👋
 
-Ich bin **Kuş Bakışı**. Ich entdecke meine liebsten Spieleklassiker neu und erstelle dafür Lokalisierungen, Untertitel und kleine Hilfsprogramme. Alle meine Projekte werden hier kostenlos veröffentlicht.
+Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Hier veröffentliche ich kostenlos meine Lokalisierungen, Untertitel und kleinen Hilfsprogramme für Spieleklassiker.
+
+Alles begann 2020, als ein Nymphensittich mein kleiner Wegbegleiter wurde und mich zu einer neuen Perspektive inspirierte — einem echten **Blick aus der Vogelperspektive** auf die Welt der Spiele.
 
 ## Şu anda / Currently / Aktuell 🕸️
 
@@ -39,13 +37,28 @@ I’m currently working on **Spider-Man (2000)**: Turkish in-game text, Turkish,
 
 Aktuell arbeite ich an **Spider-Man (2000)**: türkische Spieltexte, türkische, englische und deutsche Untertitel für Zwischensequenzen und Spielszenen sowie eine einfache Installation für Windows und Linux.
 
-## ☕ Beğendiysen destek ol / Optional support / Freiwillige Unterstützung
+<img src="assets/web-divider.svg" width="100%" alt="">
 
-Projeler tamamen ücretsiz. Yaptığım işleri beğenirsen gelecekteki çalışmalar için isteğe bağlı olarak destek olabilirsin.
+## ⭐ Özel Teşekkür / Special Thanks / Besonderer Dank
 
-All projects are free. If you enjoy my work, you’ll be able to support future projects optionally.
+Bu projedeki desteği ve retro oyun kültürüne katkıları için [**Retroloji**](https://www.youtube.com/@retroloji)’ye özel teşekkürler. Retroloji, geçmişimizde yer alan ve günümüzü şekillendiren yapıtların izini süren retro kazılarıyla bilinmeyenleri gün yüzüne çıkarıyor.
 
-Alle Projekte sind kostenlos. Wenn dir meine Arbeit gefällt, kannst du zukünftige Projekte freiwillig unterstützen.
+Special thanks to [**Retroloji**](https://www.youtube.com/@retroloji) for the support and contribution to retro gaming culture — uncovering the stories behind works from our past that helped shape the present.
+
+Ein besonderer Dank geht an [**Retroloji**](https://www.youtube.com/@retroloji) für die Unterstützung und den Beitrag zur Retro-Gaming-Kultur — mit spannenden Ausgrabungen zu Werken aus unserer Vergangenheit, die unsere Gegenwart geprägt haben.
+
+## ☕ Bir kahve ısmarla / Buy me a coffee / Spendier mir einen Kaffee
+
+Bu projeyi beğendiysen ve bana bir kahve ısmarlamak istersen aşağıdaki destek bağlantısını kullanabilirsin. Destek tamamen isteğe bağlıdır; proje her zaman ücretsiz kalacak.
+
+If you enjoyed this project and would like to buy me a coffee, you can use the support link below. Support is completely optional; the project will always remain free.
+
+Wenn dir dieses Projekt gefällt und du mir einen Kaffee spendieren möchtest, kannst du den Unterstützungslink unten verwenden. Die Unterstützung ist vollkommen freiwillig; das Projekt bleibt immer kostenlos.
+
+<div align="center">
+  <strong>☕ Destek bağlantısı yakında eklenecek.</strong><br>
+  <sub>The support link will be added soon. • Der Unterstützungslink wird bald hinzugefügt.</sub>
+</div>
 
 ---
 
