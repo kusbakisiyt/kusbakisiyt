@@ -15,19 +15,21 @@
 
 Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izlenimlerimi ve gerçek deneyimlerimi paylaşıyorum. Popüler olanın yanında gözden kaçan iyi oyunların da peşine düşüyorum. Burada YouTube videolarımın yanında, merak edip üzerinde çalıştığım oyun projelerini paylaşacağım.
 
-Her şey 2020’de bir sultan papağanını yanıma almamla başladı. Minik yol arkadaşım bana farklı bir bakış açısı kazandırdı; ben de bu **Kuş Bakışı**nı oyun dünyasına taşıdım.
-
 ## Hello! 👋
 
 I’m **Birdman**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I’ll use this space to share the game projects I explore and work on.
-
-It all began in 2020 when a cockatiel became my little companion and inspired me to look at things from a different point of view: a true **bird’s-eye view** of gaming.
 
 ## Hallo! 👋
 
 Ich bin **Vogelmann**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich hier Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
 
-Alles begann 2020, als ein Nymphensittich mein kleiner Wegbegleiter wurde und mich zu einer neuen Perspektive inspirierte: einem echten **Blick aus der Vogelperspektive** auf die Welt der Spiele.
+## 🐦 İsmin hikâyesi / About the name / Über den Namen
+
+**Kuş Bakışı**, Türkçede olaylara yukarıdan ve farklı bir açıdan bakmak anlamına gelir. Her şey 2020'de bir sultan papağanının hayatıma girmesiyle başladı. **“Her türden oyuna Kuş Bakışı!”** sloganı da buradan geliyor: Türü ne olursa olsun oyunlara farklı ve dürüst bir açıdan bakmak. Türkçe konuşuyorsanız bana **Kuş Bakışı**, İngilizce konuşuyorsanız **Birdman**, Almanca konuşuyorsanız **Vogelmann** diyebilirsiniz.
+
+**Kuş Bakışı** means **“bird's-eye view”** in Turkish. The name was inspired by the cockatiel that became my little companion in 2020. My slogan, **“A bird's-eye view of every kind of game!”**, is about looking at games from a different and honest perspective. You can call me **Kuş Bakışı** in Turkish, **Birdman** in English, or **Vogelmann** in German.
+
+**Kuş Bakışı** bedeutet auf Türkisch **„Vogelperspektive“**. Der Name wurde von dem Nymphensittich inspiriert, der 2020 mein kleiner Wegbegleiter wurde. Mein Motto **„Jede Art von Spiel aus der Vogelperspektive!“** steht dafür, Spiele ehrlich und aus einem anderen Blickwinkel zu betrachten. Auf Türkisch könnt ihr mich **Kuş Bakışı**, auf Englisch **Birdman** und auf Deutsch **Vogelmann** nennen.
 
 ## Şu anda / Currently / Aktuell 🕸️
 
@@ -39,21 +41,26 @@ Aktuell arbeite ich an **Spider-Man (2000)**: türkische Spieltexte, türkische,
 
 <img src="assets/web-divider.svg" width="100%" alt="">
 
-## ⭐ Özel Teşekkür / Special Thanks / Besonderer Dank
+## ⭐ Special Thanks: Retroloji
+
+<table>
+  <tr>
+    <td width="96" align="center">
+      <a href="https://www.youtube.com/@retroloji">
+        <img src="assets/retroloji.webp" width="72" alt="Retroloji">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
+      Geçmişimizi şekillendiren yapıtların izini süren retro kazılarıyla bilinmeyenleri gün yüzüne çıkarıyor.
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://www.youtube.com/@retroloji">
-    <img src="assets/retroloji.webp" width="128" alt="Retroloji YouTube kanalı">
-  </a>
-  <br>
-  <a href="https://www.youtube.com/@retroloji"><strong>youtube.com/@retroloji</strong></a>
+  Bu projedeki desteği için Retroloji'ye teşekkürler.<br>
+  <sub>Thanks to Retroloji for supporting this project. • Danke an Retroloji für die Unterstützung dieses Projekts.</sub>
 </div>
-
-Bu projedeki desteği ve retro oyun kültürüne katkıları için [**Retroloji**](https://www.youtube.com/@retroloji)’ye özel teşekkürler. Retroloji, geçmişimizde yer alan ve günümüzü şekillendiren yapıtların izini süren retro kazılarıyla bilinmeyenleri gün yüzüne çıkarıyor.
-
-Special thanks to [**Retroloji**](https://www.youtube.com/@retroloji) for the support and contribution to retro gaming culture. The channel uncovers the stories behind works from our past that helped shape the present.
-
-Ein besonderer Dank geht an [**Retroloji**](https://www.youtube.com/@retroloji) für die Unterstützung und den Beitrag zur Retro-Gaming-Kultur. Der Kanal widmet sich spannenden Ausgrabungen zu Werken aus unserer Vergangenheit, die unsere Gegenwart geprägt haben.
 
 ## ☕ Bir kahve ısmarla / Buy me a coffee / Spendier mir einen Kaffee
 
