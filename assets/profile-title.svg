@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
   <title id="title">Kuş Bakışı</title>
-  <desc id="desc">Kuş Bakışı, Birdman, Vogelmann. Her türden oyuna farklı bir bakış.</desc>
+  <desc id="desc">Kuş Bakışı. Oyunlara farklı bir bakış.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071426"/>
@@ -36,7 +36,7 @@
   <rect x="330" y="102" width="540" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
 
   <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.6">
-    <text x="600" y="143" fill="#f0f6fc">HER TÜRDEN OYUNA KUŞ BAKIŞI</text>
+    <text x="600" y="143" fill="#f0f6fc">OYUNLARA FARKLI BİR BAKIŞ</text>
     <text x="600" y="176" fill="#8cbbf5">A DIFFERENT VIEW OF GAMES</text>
     <text x="600" y="209" fill="#ff8b9c">EIN ANDERER BLICK AUF SPIELE</text>
   </g>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="104" viewBox="0 0 620 104" role="img" aria-labelledby="title desc">
+  <title id="title">Bir kahve ısmarla, buy me a coffee, spendier mir einen Kaffee</title>
+  <desc id="desc">Kuş Bakışı projesini GitHub Sponsors üzerinden destekle</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset=".52" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#2a0710"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset=".5" stop-color="#f0f6fc"/>
+      <stop offset="1" stop-color="#ff304f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="616" height="100" rx="22" fill="url(#bg)" stroke="url(#line)" stroke-width="4"/>
+
+  <g fill="none" stroke="#2f81f7" stroke-width="1.5" opacity=".3">
+    <path d="M2 2 94 60M2 34 76 72M34 2 104 44"/>
+    <path d="M2 2C36 21 65 38 94 60M2 34C29 43 53 56 76 72"/>
+  </g>
+  <g fill="none" stroke="#ff304f" stroke-width="1.5" opacity=".3">
+    <path d="M618 2 526 60M618 34 544 72M586 2 516 44"/>
+    <path d="M618 2C584 21 555 38 526 60M618 34C591 43 567 56 544 72"/>
+  </g>
+
+  <text x="78" y="67" text-anchor="middle" fill="#f4c56d" font-family="Segoe UI Emoji, Segoe UI, Arial, sans-serif" font-size="44">☕</text>
+  <text x="340" y="35" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="750" letter-spacing=".5">BİR KAHVE ISMARLA</text>
+  <text x="340" y="62" text-anchor="middle" fill="#c6d8f0" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing=".25">BUY ME A COFFEE  ·  SPENDIER MIR EINEN KAFFEE</text>
+  <text x="340" y="84" text-anchor="middle" fill="#86b7f3" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1.4">GITHUB SPONSORS</text>
+</svg>
