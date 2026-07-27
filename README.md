@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/kus-bakisi-banner.webp" width="100%" alt="Kuş Bakışı, gece şehri ve ağ desenli profil kapağı">
-  <img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı, oyunlara farklı bir bakış">
+  <img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı, Birdman ve Vogelmann. Oyunlara farklı bir bakış.">
 
   <a href="https://www.youtube.com/@kusbakisiyt">
     <img src="https://img.shields.io/badge/YouTube-Kuş%20Bakışı-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Kuş Bakışı YouTube kanalı">
@@ -19,13 +19,13 @@ Her şey 2020’de bir sultan papağanını yanıma almamla başladı. Minik yol
 
 ## Hello! 👋
 
-I’m **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I’ll use this space to share the game projects I explore and work on.
+I’m **Birdman**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I’ll use this space to share the game projects I explore and work on.
 
 It all began in 2020 when a cockatiel became my little companion and inspired me to look at things from a different point of view: a true **bird’s-eye view** of gaming.
 
 ## Hallo! 👋
 
-Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich hier Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
+Ich bin **Vogelmann**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich hier Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
 
 Alles begann 2020, als ein Nymphensittich mein kleiner Wegbegleiter wurde und mich zu einer neuen Perspektive inspirierte: einem echten **Blick aus der Vogelperspektive** auf die Welt der Spiele.
 
