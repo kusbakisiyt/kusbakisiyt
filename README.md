@@ -9,27 +9,27 @@
 
 <img src="assets/web-divider.svg" width="100%" alt="">
 
-## Merhaba! 👋
+## Merhaba 👋
 
-### Her türden oyuna Kuş Bakışı!
+### Her türden oyuna Kuş Bakışı
 
 Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izlenimlerimi ve gerçek deneyimlerimi paylaşıyorum. Popüler olanın yanında gözden kaçan iyi oyunların da peşine düşüyorum. Burada YouTube videolarımın yanında, merak edip üzerinde çalıştığım oyun projelerini paylaşacağım.
 
-## Hello! 👋
+## Hello 👋
 
 I’m **Birdman**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I’ll use this space to share the game projects I explore and work on.
 
-## Hallo! 👋
+## Hallo 👋
 
 Ich bin **Vogelmann**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich hier Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
 
 ## 🐦 İsmin hikâyesi / About the name / Über den Namen
 
-**Kuş Bakışı**, Türkçede olaylara yukarıdan ve farklı bir açıdan bakmak anlamına gelir. Her şey 2020'de bir sultan papağanının hayatıma girmesiyle başladı. **“Her türden oyuna Kuş Bakışı!”** sloganı da buradan geliyor: Türü ne olursa olsun oyunlara farklı ve dürüst bir açıdan bakmak. Türkçe konuşuyorsanız bana **Kuş Bakışı**, İngilizce konuşuyorsanız **Birdman**, Almanca konuşuyorsanız **Vogelmann** diyebilirsiniz.
+**Kuş Bakışı**, Türkçede olaylara yukarıdan ve farklı bir açıdan bakmak anlamına gelir. Her şey 2020'de bir sultan papağanının hayatıma girmesiyle başladı. **“Her türden oyuna Kuş Bakışı”** sloganı da buradan geliyor: Türü ne olursa olsun oyunlara farklı ve dürüst bir açıdan bakmak. Kısacası Türkçede **Kuş Bakışı**, İngilizcede **Birdman**, Almancada **Vogelmann**. Üçü de benim.
 
-**Kuş Bakışı** means **“bird's-eye view”** in Turkish. The name was inspired by the cockatiel that became my little companion in 2020. My slogan, **“A bird's-eye view of every kind of game!”**, is about looking at games from a different and honest perspective. You can call me **Kuş Bakışı** in Turkish, **Birdman** in English, or **Vogelmann** in German.
+**Kuş Bakışı** means **“bird's-eye view”** in Turkish. The name was inspired by the cockatiel that became my little companion in 2020. My slogan, **“A bird's-eye view of every kind of game”**, is about looking at games from a different and honest perspective. If **Kuş Bakışı** feels like a tongue-twister, just call me **Birdman**. I’ll know who you mean.
 
-**Kuş Bakışı** bedeutet auf Türkisch **„Vogelperspektive“**. Der Name wurde von dem Nymphensittich inspiriert, der 2020 mein kleiner Wegbegleiter wurde. Mein Motto **„Jede Art von Spiel aus der Vogelperspektive!“** steht dafür, Spiele ehrlich und aus einem anderen Blickwinkel zu betrachten. Auf Türkisch könnt ihr mich **Kuş Bakışı**, auf Englisch **Birdman** und auf Deutsch **Vogelmann** nennen.
+**Kuş Bakışı** bedeutet auf Türkisch **„Vogelperspektive“**. Der Name wurde von dem Nymphensittich inspiriert, der 2020 mein kleiner Wegbegleiter wurde. Mein Motto **„Jede Art von Spiel aus der Vogelperspektive“** steht dafür, Spiele ehrlich und aus einem anderen Blickwinkel zu betrachten. Falls **Kuş Bakışı** etwas schwer über die Lippen geht, nennt mich einfach **Vogelmann**. Ich weiß schon, wer gemeint ist.
 
 ## Şu anda / Currently / Aktuell 🕸️
 

@@ -36,7 +36,7 @@
   <rect x="330" y="102" width="540" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
 
   <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.6">
-    <text x="600" y="143" fill="#f0f6fc">HER TÜRDEN OYUNA KUŞ BAKIŞI!</text>
+    <text x="600" y="143" fill="#f0f6fc">HER TÜRDEN OYUNA KUŞ BAKIŞI</text>
     <text x="600" y="176" fill="#8cbbf5">A DIFFERENT VIEW OF GAMES</text>
     <text x="600" y="209" fill="#ff8b9c">EIN ANDERER BLICK AUF SPIELE</text>
   </g>
