@@ -11,7 +11,6 @@
 
 <div align="center">
   <strong>Bir dil seç / Choose a language / Sprache wählen</strong><br>
-  <sub>Aşağıdaki dil başlıklarından birine tıkla.</sub>
 </div>
 
 <details>
@@ -46,7 +45,7 @@
 
   ### Windows indir
 
-  Windows için kurulum paketi hazır. **Setup.exe** ile aynı klasörde bulunan 1, 2 ve 3 numaralı kurulum dosyalarını birlikte indirip Setup.exe'yi çalıştırman yeterli.
+  Windows için kurulum paketi hazır. İndirme sayfasındaki Windows dosyalarını aynı klasöre indirip **Setup.exe**'yi çalıştırman yeterli. Ardından sende bulunan uygun BIN dosyasını ve PlayStation BIOS'unu seç.
 
   <div align="center">
     <strong>Windows sürümü yakında buradan indirilebilir olacak.</strong>
@@ -54,7 +53,7 @@
 
   ### Gerekli dosyalar
 
-  Bu proje oyun veya PlayStation BIOS dosyalarını içermez. Oynamak için ihtiyacın olan tek şey uyumlu bir oyun BIN dosyası ve PlayStation 1 BIOS dosyasıdır. İlk kurulumda bunları seçmen yeterli olur. İngilizce sürüm için **SLES-02886**, Almanca sürüm için **SLES-02888** kullanılır.
+  Bu proje oyun veya PlayStation BIOS dosyalarını içermez. Oynamak için ihtiyacın olan tek şey uyumlu bir oyun BIN dosyası ve PlayStation 1 BIOS dosyasıdır. İlk kurulumda bunları seçmen yeterli olur. Türkçe ve İngilizce sürümler için **SLES-02886**, Almanca sürüm için **SLES-02888** kullanılır.
 
   <img src="assets/web-divider.svg" width="100%" alt="">
 
@@ -97,7 +96,7 @@
 
   I’m **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I share the game projects I explore and work on.
 
-  **Kuş Bakışı** means “bird’s-eye view” in Turkish and reflects my way of looking at games from a different angle. You can just call me **Birdman**.
+  **Kuş Bakışı** means “bird’s-eye view” in Turkish. The name was inspired by the cockatiel that has been by my side since 2020, and by the idea of looking at games from a different angle. You can just call me **Birdman**.
 
   ## Spider-Man (2000) 🕸️
 
@@ -119,7 +118,7 @@
 
   ### Download for Windows
 
-  The Windows setup package is ready. Keep **Setup.exe** and setup data files 1, 2, and 3 in the same folder, then run Setup.exe.
+  The Windows setup package is ready. Download the Windows files from the download page into the same folder, then run **Setup.exe**. Afterwards, select your own compatible BIN file and PlayStation BIOS.
 
   <div align="center">
     <strong>The Windows release will be available here soon.</strong>
@@ -127,7 +126,7 @@
 
   ### Required files
 
-  This project does not include game or PlayStation BIOS files. All you need to play is a compatible game BIN file and a PlayStation 1 BIOS file. During the first setup, simply select them. Use **SLES-02886** for English and **SLES-02888** for German.
+  This project does not include game or PlayStation BIOS files. All you need to play is a compatible game BIN file and a PlayStation 1 BIOS file. During the first setup, simply select them. Use **SLES-02886** for Turkish and English, and **SLES-02888** for German.
 
   <img src="assets/web-divider.svg" width="100%" alt="">
 
@@ -170,7 +169,7 @@
 
   Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube Videos teile ich die Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
 
-  **Kuş Bakışı** bedeutet auf Türkisch „Vogelperspektive“ und steht für meinen Blick auf Spiele aus einem anderen Winkel. Ihr könnt mich einfach **Vogelmann** nennen.
+  **Kuş Bakışı** bedeutet auf Türkisch „Vogelperspektive“. Der Name wurde von meinem Nymphensittich inspiriert, der seit 2020 an meiner Seite ist, sowie von der Idee, Spiele aus einem anderen Blickwinkel zu betrachten. Ihr könnt mich einfach **Vogelmann** nennen.
 
   ## Spider-Man (2000) 🕸️
 
@@ -192,7 +191,7 @@
 
   ### Windows herunterladen
 
-  Das Windows Setup Paket ist bereit. Bewahre **Setup.exe** sowie die Installationsdateien 1, 2 und 3 im selben Ordner auf und starte anschließend Setup.exe.
+  Das Windows Setup Paket ist bereit. Lade die Windows Dateien von der Download Seite in denselben Ordner und starte anschließend **Setup.exe**. Wähle danach deine eigene kompatible BIN Datei und dein PlayStation BIOS aus.
 
   <div align="center">
     <strong>Die Windows Version wird hier bald verfügbar sein.</strong>
@@ -200,7 +199,7 @@
 
   ### Benötigte Dateien
 
-  Dieses Projekt enthält keine Spiel oder PlayStation BIOS Dateien. Zum Spielen benötigst du nur eine kompatible Spiel BIN Datei und eine PlayStation 1 BIOS Datei. Bei der ersten Einrichtung wählst du diese einfach aus. Für Englisch wird **SLES-02886**, für Deutsch **SLES-02888** benötigt.
+  Dieses Projekt enthält keine Spiel oder PlayStation BIOS Dateien. Zum Spielen benötigst du nur eine kompatible Spiel BIN Datei und eine PlayStation 1 BIOS Datei. Bei der ersten Einrichtung wählst du diese einfach aus. Für Türkisch und Englisch wird **SLES-02886**, für Deutsch **SLES-02888** benötigt.
 
   <img src="assets/web-divider.svg" width="100%" alt="">
 
