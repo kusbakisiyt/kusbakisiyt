@@ -4,50 +4,52 @@
   <h1>Kuş Bakışı</h1>
 
   <p>
-    <strong>Oyun yerelleştirme • Erişilebilirlik • Retro oyunlar</strong><br>
-    <em>Game localization • Accessibility • Retro gaming</em>
+    <strong>Oyun yerelleştirme • Altyazı • Retro oyunlar</strong><br>
+    <em>Game localization • Subtitles • Retro gaming</em><br>
+    <em>Spielelokalisierung • Untertitel • Retro-Gaming</em>
   </p>
 
   <a href="https://www.youtube.com/@kusbakisiyt">
     <img src="https://img.shields.io/badge/YouTube-Kuş%20Bakışı-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Kuş Bakışı YouTube kanalı">
   </a>
+  <img src="https://img.shields.io/badge/Türkçe-TR-E30A17?style=for-the-badge" alt="Türkçe">
+  <img src="https://img.shields.io/badge/English-EN-1F6FEB?style=for-the-badge" alt="English">
+  <img src="https://img.shields.io/badge/Deutsch-DE-111827?style=for-the-badge" alt="Deutsch">
 </div>
 
 ---
 
-## Merhaba! / Hello! 👋
+## Merhaba! 👋
 
-Klasik oyunları Türkçe yerelleştirmeler, altyazı sistemleri ve kullanımı kolay araçlarla yeniden erişilebilir hâle getiriyorum.
+Ben **Kuş Bakışı**. Sevdiğim eski oyunları yeniden keşfediyor; Türkçe yerelleştirmeler, altyazılar ve küçük araçlar hazırlıyorum. Yaptığım çalışmaların hepsini burada ücretsiz paylaşacağım.
 
-I make classic games more accessible through Turkish localizations, subtitle systems, and easy-to-use tools.
+## Hello! 👋
 
-## Şu anda üzerinde çalıştığım proje 🕸️
+I’m **Kuş Bakışı**. I revisit the classic games I love and create localizations, subtitles, and small tools for them. Everything I make will be shared here for free.
 
-**Spider-Man (2000)** için ücretsiz ve gayriresmî bir hayran yerelleştirmesi hazırlıyorum.
+## Hallo! 👋
 
-Bu çalışma; Türkçe oyun metinleri, sinematik ve oyun içi sahneler için altyazılar ile kolay kurulum araçlarını bir araya getiriyor. Proje hazır olduğunda burada tamamen ücretsiz yayımlanacak.
+Ich bin **Kuş Bakışı**. Ich entdecke meine liebsten Spieleklassiker neu und erstelle dafür Lokalisierungen, Untertitel und kleine Hilfsprogramme. Alle meine Projekte werden hier kostenlos veröffentlicht.
 
-I’m working on a free, unofficial fan localization for **Spider-Man (2000)**, combining localized game text, subtitles for cinematics and in-game scenes, and accessible installation tools. It will be released here for free when it is ready.
+## Şu anda / Currently / Aktuell 🕸️
 
-## Proje anlayışım
+**Spider-Man (2000)** üzerinde çalışıyorum: Türkçe oyun metinleri, sinematikler ve oyun içi sahneler için Türkçe, İngilizce ve Almanca altyazılar, ayrıca Windows ve Linux için kolay kurulum.
 
-- 🆓 İndirmeler ve yayımlanan projeler tamamen ücretsizdir.
-- 🌍 Türkçe çalışmaların yanında uluslararası erişilebilirliği önemsiyorum.
-- 🧩 Oyun, ROM/ISO veya BIOS dosyaları paylaşmıyorum.
-- ❤️ Çalışmalarımı beğenenler ileride GitHub Sponsors üzerinden tamamen isteğe bağlı destek olabilecek.
+I’m currently working on **Spider-Man (2000)**: Turkish in-game text, Turkish, English, and German subtitles for cinematics and in-game scenes, plus easy installation for Windows and Linux.
 
-## My project principles
+Aktuell arbeite ich an **Spider-Man (2000)**: türkische Spieltexte, türkische, englische und deutsche Untertitel für Zwischensequenzen und Spielszenen sowie eine einfache Installation für Windows und Linux.
 
-- 🆓 Downloads and published projects are completely free.
-- 🌍 I care about international accessibility alongside Turkish localization.
-- 🧩 I do not distribute games, ROM/ISO images, or BIOS files.
-- ❤️ Optional GitHub Sponsors support will be available in the future for anyone who enjoys my work.
+## ☕ Beğendiysen destek ol / Optional support / Freiwillige Unterstützung
+
+Projeler tamamen ücretsiz. Yaptığım işleri beğenirsen gelecekteki çalışmalar için isteğe bağlı olarak destek olabilirsin.
+
+All projects are free. If you enjoy my work, you’ll be able to support future projects optionally.
+
+Alle Projekte sind kostenlos. Wenn dir meine Arbeit gefällt, kannst du zukünftige Projekte freiwillig unterstützen.
 
 ---
 
 <div align="center">
-  <sub>
-    Bu profil ve projeler gayriresmî hayran çalışmalarıdır; ilgili hak sahipleriyle bağlantılı değildir.<br>
-    This profile and its projects are unofficial fan works and are not affiliated with their respective rights holders.
-  </sub>
+  <img src="https://img.shields.io/badge/Ücretsiz%20Projeler-Free%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ücretsiz projeler">
+  <img src="https://img.shields.io/badge/Windows%20%2B%20Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Windows ve Linux">
 </div>
