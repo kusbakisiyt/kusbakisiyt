@@ -48,7 +48,9 @@
   Windows için kurulum paketi hazır. İndirme sayfasındaki Windows dosyalarını aynı klasöre indirip **Setup.exe**'yi çalıştırman yeterli. Ardından sende bulunan uygun BIN dosyasını ve PlayStation BIOS'unu seç.
 
   <div align="center">
-    <strong>Windows sürümü yakında buradan indirilebilir olacak.</strong>
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3">
+      <img src="https://img.shields.io/badge/Windows-İndir-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows sürümünü indir">
+    </a>
   </div>
 
   ### Gerekli dosyalar
@@ -121,7 +123,9 @@
   The Windows setup package is ready. Download the Windows files from the download page into the same folder, then run **Setup.exe**. Afterwards, select your own compatible BIN file and PlayStation BIOS.
 
   <div align="center">
-    <strong>The Windows release will be available here soon.</strong>
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3">
+      <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows release">
+    </a>
   </div>
 
   ### Required files
@@ -194,7 +198,9 @@
   Das Windows Setup Paket ist bereit. Lade die Windows Dateien von der Download Seite in denselben Ordner und starte anschließend **Setup.exe**. Wähle danach deine eigene kompatible BIN Datei und dein PlayStation BIOS aus.
 
   <div align="center">
-    <strong>Die Windows Version wird hier bald verfügbar sein.</strong>
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3">
+      <img src="https://img.shields.io/badge/Windows-Herunterladen-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Version herunterladen">
+    </a>
   </div>
 
   ### Benötigte Dateien
