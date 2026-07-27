@@ -49,6 +49,10 @@ Projenin kalbi, oyunla birlikte otomatik çalışan Python tabanlı yardımcı y
 
 Windows sürümü **Setup** ile, Ubuntu ve Debian tabanlı Linux sürümü ise **.deb** paketiyle kurulacak. İlk kurulumda kendi oyun ve BIOS dosyalarını seçmen yeterli olacak; ardından launcher bütün ayarları hazırlayıp seçtiğin dili başlatacak.
 
+### Gerekli dosyalar
+
+Bu proje oyun veya PlayStation BIOS dosyalarını içermez. PlayStation 1 sürümü için hazırlanmıştır ve DuckStation üzerinden çalışır. İlk kurulumda kendi uyumlu oyun dosyanı ve BIOS'unu seçmen gerekir. İngilizce sürüm için **SLES-02886**, Almanca sürüm için **SLES-02888** kullanılır.
+
 <details>
   <summary><strong>English</strong></summary>
   <br>
@@ -70,6 +74,10 @@ At the heart of the project is a Python based companion app that starts automati
 </details>
 
 The Windows release will use a **Setup** installer, while Ubuntu and Debian based Linux systems will use a **.deb** package. During the first setup, you will select your own game and BIOS files. The launcher will then prepare the settings and start the language you choose.
+
+### Required files
+
+This project does not include game or PlayStation BIOS files. It is made for the PlayStation 1 version and runs through DuckStation. During the first setup, you will select your own compatible game file and BIOS. Use **SLES-02886** for English and **SLES-02888** for German.
 </details>
 
 <details>
@@ -93,6 +101,10 @@ Das Herzstück des Projekts ist eine Python basierte Begleitsoftware, die automa
 </details>
 
 Die Windows Version wird mit einem **Setup Installer** eingerichtet, Ubuntu und Debian basierte Linux Systeme nutzen ein **.deb Paket**. Bei der ersten Einrichtung wählst du deine eigenen Spiel und BIOS Dateien aus. Anschließend bereitet der Launcher die Einstellungen vor und startet die gewünschte Sprache.
+
+### Benötigte Dateien
+
+Dieses Projekt enthält keine Spiel oder PlayStation BIOS Dateien. Es wurde für die PlayStation 1 Version erstellt und läuft über DuckStation. Bei der ersten Einrichtung wählst du deine eigenen kompatiblen Spiel und BIOS Dateien aus. Für Englisch wird **SLES-02886**, für Deutsch **SLES-02888** benötigt.
 </details>
 
 <img src="assets/web-divider.svg" width="100%" alt="">
