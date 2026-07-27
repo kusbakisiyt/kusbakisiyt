@@ -31,32 +31,68 @@ Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive
 
 ## Spider-Man (2000) 🕸️
 
-**Spider-Man (2000)** için hazırladığım ücretsiz fan projesi tamamlandı. Türkçe oyun metinlerinin yanında sinematikler ve oyun içi sahneler için Türkçe, İngilizce ve Almanca altyazılar içeriyor.
+### Bu proje nedir?
 
-Orijinal oyunda altyazı desteği bulunmadığı için proje kendi görsel sahne tanıma sistemini kullanıyor. DuckStation'da oyun çalışırken oyun penceresindeki görüntüyü önceden hazırlanan sahne kareleriyle karşılaştırıyor ve tanıdığı sahneye ait altyazıyı doğru zamanda ekranın üzerine getiriyor. Sistem görüntü eşleştirmeye dayandığından nadiren yanlış bir sahneyi tanıyıp hatalı altyazı gösterebilir.
+Bu, **Spider-Man (2000)** için hazırladığım ücretsiz bir fan projesi. Sadece birkaç metin dosyasını değiştiren bir çeviri değil: Türkçe sürümde oyunun menüleri, açıklamaları ve oyun içi metinleri doğrudan düzenlenerek çevrildi. İngilizce ve Almanca sürümlerde ise video ara sahneleri ve uygun oyun içi anlar için altyazılar eklendi.
 
-Kurulum için Windows'ta yalnızca **Setup** dosyasını, Ubuntu veya Debian tabanlı Linux dağıtımlarında ise **.deb** paketini kurmak yeterli. Ardından dili seçip oyunu başlatabilirsin.
+Projenin kalbi, oyunla birlikte otomatik çalışan Python tabanlı yardımcı yazılım. Orijinal oyunda altyazı desteği olmadığı için DuckStation açıldığında bu yazılım da devreye giriyor; oyun penceresindeki sahneyi tanıyor ve doğru anda ekrana uygun altyazıyı getiriyor. Yani altyazılar önceden videoya yapıştırılmış değil, oynayışına göre canlı olarak ekrana geliyor.
+
+<details>
+  <summary><strong>Nasıl çalışıyor?</strong></summary>
+  <br>
+
+  - Oyunun sahnesi, önceden hazırlanmış görsel eşleşmelerle tanınır.
+  - Eşleşen sahnenin Türkçe, İngilizce veya Almanca altyazısı ekranda gösterilir.
+  - Dil seçimi launcher üzerinden yapılır; altyazı sistemi oyunla birlikte otomatik başlar.
+  - Görüntü eşleştirmeye dayandığı için çok nadir durumlarda yanlış sahne algılanabilir.
+</details>
+
+Windows sürümü **Setup** ile, Ubuntu ve Debian tabanlı Linux sürümü ise **.deb** paketiyle kurulacak. İlk kurulumda kendi oyun ve BIOS dosyalarını seçmen yeterli olacak; ardından launcher bütün ayarları hazırlayıp seçtiğin dili başlatacak.
 
 <details>
   <summary><strong>English</strong></summary>
   <br>
 
-My free fan project for **Spider-Man (2000)** is complete. It includes Turkish in-game text as well as Turkish, English, and German subtitles for cinematics and in-game scenes.
+### What is this project?
 
-Since the original game has no subtitle support, the project uses its own visual scene recognition system. While the game is running in DuckStation, it compares the game window with prepared scene images and displays the matching subtitles on screen at the right time. Because it relies on image matching, it may occasionally recognize the wrong scene and show an incorrect subtitle.
+This is my free fan project for **Spider-Man (2000)**. It is more than a simple text replacement: the Turkish version modifies and translates the game's menus, descriptions, and in-game text. The English and German versions add subtitles to video cutscenes and relevant in-game moments.
 
-On Windows, simply run the **Setup** file. On Ubuntu or Debian-based Linux distributions, install the **.deb** package. Then choose a language and start the game.
+At the heart of the project is a Python based companion app that starts automatically with the game. Since the original game has no subtitle support, it recognises the current scene in the DuckStation window and places the matching subtitle on screen at the right moment. The subtitles are not baked into the videos: they appear live as you play.
+
+<details>
+  <summary><strong>How does it work?</strong></summary>
+  <br>
+
+  - Prepared visual matches recognise the current game scene.
+  - The matching Turkish, English, or German subtitle is shown on screen.
+  - The launcher selects the language and starts the subtitle system automatically.
+  - Because it relies on image matching, the system may very rarely recognise the wrong scene.
+</details>
+
+The Windows release will use a **Setup** installer, while Ubuntu and Debian based Linux systems will use a **.deb** package. During the first setup, you will select your own game and BIOS files. The launcher will then prepare the settings and start the language you choose.
 </details>
 
 <details>
   <summary><strong>Deutsch</strong></summary>
   <br>
 
-Mein kostenloses Fanprojekt für **Spider-Man (2000)** ist fertig. Es enthält türkische Spieltexte sowie türkische, englische und deutsche Untertitel für Zwischensequenzen und Spielszenen.
+### Was ist dieses Projekt?
 
-Da das Originalspiel keine Untertitel unterstützt, verwendet das Projekt ein eigenes System zur visuellen Szenenerkennung. Während das Spiel in DuckStation läuft, vergleicht es das Spielfenster mit vorbereiteten Szenenbildern und blendet die passenden Untertitel im richtigen Moment ein. Da das System auf Bildabgleichen basiert, kann es in seltenen Fällen eine falsche Szene erkennen und einen unpassenden Untertitel anzeigen.
+Dies ist mein kostenloses Fanprojekt für **Spider-Man (2000)**. Es ist mehr als ein einfacher Textersatz: In der türkischen Version wurden Menüs, Beschreibungen und Spieltexte direkt im Spiel überarbeitet und übersetzt. Für die englische und deutsche Version wurden Untertitel für Video Zwischensequenzen und passende Spielszenen ergänzt.
 
-Unter Windows genügt es, die **Setup-Datei** auszuführen. Unter Ubuntu- oder Debian-basierten Linux-Distributionen muss lediglich das **.deb-Paket** installiert werden. Danach Sprache auswählen und das Spiel starten.
+Das Herzstück des Projekts ist eine Python basierte Begleitsoftware, die automatisch zusammen mit dem Spiel startet. Da das Original keine Untertitel unterstützt, erkennt sie die aktuelle Szene im DuckStation Fenster und blendet den passenden Untertitel im richtigen Moment ein. Die Untertitel sind nicht fest in die Videos eingebrannt, sondern erscheinen während des Spielens.
+
+<details>
+  <summary><strong>Wie funktioniert es?</strong></summary>
+  <br>
+
+  - Vorbereitete visuelle Vergleichsdaten erkennen die aktuelle Spielszene.
+  - Der passende türkische, englische oder deutsche Untertitel wird eingeblendet.
+  - Der Launcher wählt die Sprache und startet das Untertitelsystem automatisch.
+  - Da das System auf Bildabgleichen basiert, kann es sehr selten eine falsche Szene erkennen.
+</details>
+
+Die Windows Version wird mit einem **Setup Installer** eingerichtet, Ubuntu und Debian basierte Linux Systeme nutzen ein **.deb Paket**. Bei der ersten Einrichtung wählst du deine eigenen Spiel und BIOS Dateien aus. Anschließend bereitet der Launcher die Einstellungen vor und startet die gewünschte Sprache.
 </details>
 
 <img src="assets/web-divider.svg" width="100%" alt="">
