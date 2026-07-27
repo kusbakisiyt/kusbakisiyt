@@ -43,13 +43,17 @@
     - Görüntü eşleştirmeye dayandığı için çok nadir durumlarda yanlış sahne algılanabilir.
   </details>
 
-  ### Windows indir
+  ### İndir
 
-  Windows için kurulum paketi hazır. İndirme sayfasındaki Windows dosyalarını aynı klasöre indirip **Setup.exe**'yi çalıştırman yeterli. Ardından sende bulunan uygun BIN dosyasını ve PlayStation BIOS'unu seç.
+  Windows için kurulum paketi hazır. İndirme sayfasındaki dosyaları aynı klasöre indirip **Setup.exe**'yi çalıştırman yeterli. Linux için ise **.deb** paketi parçalar halinde sunuluyor, indirme sayfasındaki talimatı takip ederek birleştirebilirsin. Her iki durumda da ardından sende bulunan uygun BIN dosyasını ve PlayStation BIOS'unu seç.
 
   <div align="center">
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3">
-      <img src="https://img.shields.io/badge/Windows-İndir-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows sürümünü indir">
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-windows">
+      <img src="https://img.shields.io/badge/Windows-İndir-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Windows sürümünü indir">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-linux">
+      <img src="https://img.shields.io/badge/Linux-İndir-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux sürümünü indir">
     </a>
   </div>
 
@@ -59,23 +63,16 @@
 
   <img src="assets/web-divider.svg" width="100%" alt="">
 
-  ## ⭐ Retroloji
-
-  <table>
-    <tr>
-      <td width="96" align="center">
-        <a href="https://www.youtube.com/@retroloji">
-          <img src="assets/retroloji.webp" width="72" alt="Retroloji">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
-        Geçmişimizi şekillendiren yapıtların izini süren retro kazıları.
-      </td>
-    </tr>
-  </table>
+  ## 🌟 Special Credits
 
   <div align="center">
+    <a href="https://www.youtube.com/@retroloji">
+      <img src="assets/retroloji.webp" width="140" alt="Retroloji">
+    </a>
+    <br><br>
+    <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
+    Geçmişimizi şekillendiren yapıtların izini süren retro kazıları.
+    <br><br>
     Bu projedeki desteği için Retroloji'ye teşekkürler.
   </div>
 
@@ -96,9 +93,9 @@
 
   ## Hello 👋
 
-  I’m **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I share the game projects I explore and work on.
+  I'm **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I share the game projects I explore and work on.
 
-  **Kuş Bakışı** means “bird’s-eye view” in Turkish. The name was inspired by the cockatiel that has been by my side since 2020, and by the idea of looking at games from a different angle. You can just call me **Birdman**.
+  **Kuş Bakışı** means "bird's-eye view" in Turkish. The name was inspired by the cockatiel that has been by my side since 2020, and by the idea of looking at games from a different angle. You can just call me **Birdman**.
 
   ## Spider-Man (2000) 🕸️
 
@@ -118,13 +115,17 @@
     - Because it relies on image matching, the system may very rarely recognise the wrong scene.
   </details>
 
-  ### Download for Windows
+  ### Download
 
-  The Windows setup package is ready. Download the Windows files from the download page into the same folder, then run **Setup.exe**. Afterwards, select your own compatible BIN file and PlayStation BIOS.
+  The Windows setup package is ready. Download the files from the download page into the same folder, then run **Setup.exe**. For Linux, a **.deb** package is provided in split parts — follow the instructions on the download page to merge them. Either way, afterwards select your own compatible BIN file and PlayStation BIOS.
 
   <div align="center">
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3">
-      <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows release">
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-windows">
+      <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Download the Windows release">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-linux">
+      <img src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Download the Linux release">
     </a>
   </div>
 
@@ -134,23 +135,16 @@
 
   <img src="assets/web-divider.svg" width="100%" alt="">
 
-  ## ⭐ Retroloji
-
-  <table>
-    <tr>
-      <td width="96" align="center">
-        <a href="https://www.youtube.com/@retroloji">
-          <img src="assets/retroloji.webp" width="72" alt="Retroloji">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
-        Retro deep dives into the works that shaped our past and present.
-      </td>
-    </tr>
-  </table>
+  ## 🌟 Special Credits
 
   <div align="center">
+    <a href="https://www.youtube.com/@retroloji">
+      <img src="assets/retroloji.webp" width="140" alt="Retroloji">
+    </a>
+    <br><br>
+    <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
+    Retro deep dives into the works that shaped our past and present.
+    <br><br>
     Thanks to Retroloji for supporting this project.
   </div>
 
@@ -173,7 +167,7 @@
 
   Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube Videos teile ich die Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
 
-  **Kuş Bakışı** bedeutet auf Türkisch „Vogelperspektive“. Der Name wurde von meinem Nymphensittich inspiriert, der seit 2020 an meiner Seite ist, sowie von der Idee, Spiele aus einem anderen Blickwinkel zu betrachten. Ihr könnt mich einfach **Vogelmann** nennen.
+  **Kuş Bakışı** bedeutet auf Türkisch „Vogelperspektive". Der Name wurde von meinem Nymphensittich inspiriert, der seit 2020 an meiner Seite ist, sowie von der Idee, Spiele aus einem anderen Blickwinkel zu betrachten. Ihr könnt mich einfach **Vogelmann** nennen.
 
   ## Spider-Man (2000) 🕸️
 
@@ -193,13 +187,17 @@
     - Da das System auf Bildabgleichen basiert, kann es sehr selten eine falsche Szene erkennen.
   </details>
 
-  ### Windows herunterladen
+  ### Herunterladen
 
-  Das Windows Setup Paket ist bereit. Lade die Windows Dateien von der Download Seite in denselben Ordner und starte anschließend **Setup.exe**. Wähle danach deine eigene kompatible BIN Datei und dein PlayStation BIOS aus.
+  Das Windows Setup Paket ist bereit. Lade die Dateien von der Download Seite in denselben Ordner und starte anschließend **Setup.exe**. Für Linux wird ein **.deb** Paket in mehreren Teilen bereitgestellt — folge der Anleitung auf der Download Seite, um sie zusammenzufügen. Wähle danach in jedem Fall deine eigene kompatible BIN Datei und dein PlayStation BIOS aus.
 
   <div align="center">
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3">
-      <img src="https://img.shields.io/badge/Windows-Herunterladen-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Version herunterladen">
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-windows">
+      <img src="https://img.shields.io/badge/Windows-Herunterladen-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Windows Version herunterladen">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-linux">
+      <img src="https://img.shields.io/badge/Linux-Herunterladen-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux Version herunterladen">
     </a>
   </div>
 
@@ -209,23 +207,16 @@
 
   <img src="assets/web-divider.svg" width="100%" alt="">
 
-  ## ⭐ Retroloji
-
-  <table>
-    <tr>
-      <td width="96" align="center">
-        <a href="https://www.youtube.com/@retroloji">
-          <img src="assets/retroloji.webp" width="72" alt="Retroloji">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
-        Retro Ausgrabungen zu Werken, die unsere Vergangenheit und Gegenwart geprägt haben.
-      </td>
-    </tr>
-  </table>
+  ## 🌟 Special Credits
 
   <div align="center">
+    <a href="https://www.youtube.com/@retroloji">
+      <img src="assets/retroloji.webp" width="140" alt="Retroloji">
+    </a>
+    <br><br>
+    <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
+    Retro Ausgrabungen zu Werken, die unsere Vergangenheit und Gegenwart geprägt haben.
+    <br><br>
     Danke an Retroloji für die Unterstützung dieses Projekts.
   </div>
 
