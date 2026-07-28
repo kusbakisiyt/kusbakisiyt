@@ -71,7 +71,7 @@ Oyun motoruyla gerçekleşen sahnelerdeki altyazılar, Windows ve Linux sürüml
 
 #### 🕹️ Türkçe arayüz
 
-Türkçe sürümden bir yönlendirme metni örneği:
+Türkçe sürümden bir menü örneği:
 
 <div align="center">
 <img src="assets/screenshots/tr/turkce-yonlendirme-metni.png" width="90%" alt="Spider-Man 2000 Türkçe yönlendirme metni">
