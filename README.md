@@ -1,4 +1,3 @@
-<div align="center">
 <img src="assets/kus-bakisi-banner.webp" width="100%" alt="Kuş Bakışı, gece şehri ve ağ desenli profil kapağı">
 <img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı, oyunlara farklı bir bakış">
 
@@ -71,6 +70,17 @@ Her iki sürümde de kurulum sırasında kendi uyumlu oyun BIN dosyanı ve PlayS
 Bu proje oyun veya PlayStation BIOS dosyalarını içermez. Oynamak için uyumlu bir oyun BIN dosyasına ve PlayStation 1 BIOS dosyasına sahip olman gerekir. İlk kurulum sırasında bu dosyaları seçmen yeterlidir.
 
 Türkçe ve İngilizce sürümler için **SLES-02886**, Almanca sürüm için **SLES-02888** kullanılır.
+
+### Kaynak kodu
+
+Bu proje için geliştirdiğim launcher, oyun dosyası doğrulama sistemi ve canlı altyazı yazılımının kaynak kodları bu depoda **MIT Lisansı** altında yayımlanmıştır.
+
+- [Kaynak kodunu incele](./src)
+- [Kaynak paketi hakkında bilgi](./SOURCE_CODE.md)
+- [MIT Lisansı](./LICENSE)
+- [Üçüncü taraf bildirimleri](./NOTICE.md)
+
+MIT Lisansı yalnızca bu proje için geliştirdiğim özgün kaynak kodları kapsar. Oyun, PlayStation BIOS dosyaları, DuckStation, Spider-Man markası ve üçüncü taraflara ait diğer materyaller bu lisans kapsamında değildir.
 
 <img src="assets/web-divider.svg" width="100%" alt="">
 
@@ -172,6 +182,17 @@ This project does not include the game or any PlayStation BIOS files. You need a
 
 Use **SLES-02886** for Turkish and English, and **SLES-02888** for German.
 
+### Source code
+
+The source code I developed for the launcher, game-file verification system and live subtitle software is available in this repository under the **MIT License**.
+
+- [Browse the source code](./src)
+- [About the source package](./SOURCE_CODE.md)
+- [MIT License](./LICENSE)
+- [Third-party notices](./NOTICE.md)
+
+The MIT License applies only to the original source code I developed for this project. The game, PlayStation BIOS files, DuckStation, the Spider-Man property and other third-party materials are not covered by this license.
+
 <img src="assets/web-divider.svg" width="100%" alt="">
 
 ## 🌟 Special Thanks
@@ -272,6 +293,17 @@ Dieses Projekt enthält weder das Spiel noch PlayStation-BIOS-Dateien. Zum Spiel
 
 Für Türkisch und Englisch wird **SLES-02886**, für Deutsch **SLES-02888** benötigt.
 
+### Quellcode
+
+Der von mir entwickelte Quellcode für den Launcher, das System zur Überprüfung der Spieldatei und die Live-Untertitel-Software ist in diesem Repository unter der **MIT-Lizenz** verfügbar.
+
+- [Quellcode ansehen](./src)
+- [Informationen zum Quellcode-Paket](./SOURCE_CODE.md)
+- [MIT-Lizenz](./LICENSE)
+- [Hinweise zu Drittanbieter-Komponenten](./NOTICE.md)
+
+Die MIT-Lizenz gilt ausschließlich für den von mir für dieses Projekt entwickelten ursprünglichen Quellcode. Das Spiel, PlayStation-BIOS-Dateien, DuckStation, die Spider-Man-Marke und andere Materialien von Drittanbietern fallen nicht unter diese Lizenz.
+
 <img src="assets/web-divider.svg" width="100%" alt="">
 
 ## 🌟 Besonderer Dank
@@ -314,5 +346,3 @@ Wenn dir dieses Projekt gefällt und du mir einen Kaffee spendieren möchtest, k
 <img src="assets/coffee-button.svg" width="520" alt="Unterstütze das Projekt über GitHub Sponsors">
 </a>
 </div>
-
-</details>
