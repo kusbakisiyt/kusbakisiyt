@@ -346,3 +346,5 @@ Wenn dir dieses Projekt gefällt und du mir einen Kaffee spendieren möchtest, k
 <img src="assets/coffee-button.svg" width="520" alt="Unterstütze das Projekt über GitHub Sponsors">
 </a>
 </div>
+
+</details>
