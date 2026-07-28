@@ -1,232 +1,318 @@
 <div align="center">
-  <img src="assets/kus-bakisi-banner.webp" width="100%" alt="Kuş Bakışı, gece şehri ve ağ desenli profil kapağı">
-  <img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı, oyunlara farklı bir bakış">
+<img src="assets/kus-bakisi-banner.webp" width="100%" alt="Kuş Bakışı, gece şehri ve ağ desenli profil kapağı">
+<img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı, oyunlara farklı bir bakış">
 
-  <a href="https://www.youtube.com/@kusbakisiyt">
-    <img src="https://img.shields.io/badge/YouTube-Kuş%20Bakışı-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Kuş Bakışı YouTube kanalı">
-  </a>
+<a href="https://www.youtube.com/@kusbakisiyt">
+<img src="https://img.shields.io/badge/YouTube-Kuş%20Bakışı-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Kuş Bakışı YouTube kanalı">
+</a>
 </div>
 
 <img src="assets/web-divider.svg" width="100%" alt="">
 
 <div align="center">
-  <strong>Bir dil seç / Choose a language / Sprache wählen</strong><br>
+<strong>Bir dil seç / Choose a language / Sprache wählen</strong>
 </div>
 
+<br>
+
 <details>
-  <summary><strong>Türkçe</strong></summary>
-  <br>
+<summary><strong>🇹🇷 Türkçe</strong></summary>
 
-  ## Merhaba 👋
+<br>
 
-  Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izlenimlerimi ve gerçek deneyimlerimi paylaşıyorum. Popüler olanın yanında gözden kaçan iyi oyunların da peşine düşüyorum. Burada YouTube videolarımın yanında, merak edip üzerinde çalıştığım oyun projelerini paylaşıyorum.
+## Merhaba 👋
 
-  <div align="center">
-    🐦 <em>Kuş Bakışı adı, 2020'de hayatıma giren sultan papağanından ve oyunlara farklı bir açıdan bakma fikrinden geliyor.</em>
-  </div>
+Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izlenimlerimi ve gerçek deneyimlerimi paylaşıyorum. Popüler olanın yanında gözden kaçan iyi oyunların da peşine düşüyorum. Burada YouTube videolarımın yanında, merak edip üzerinde çalıştığım oyun projelerini paylaşıyorum.
 
-  ## Spider-Man (2000) 🕸️
+<div align="center">
+🐦 <em>Kuş Bakışı adı, 2020'de hayatıma giren sultan papağanından ve oyunlara farklı bir açıdan bakma fikrinden geliyor.</em>
+</div>
 
-  ### Bu proje nedir?
+## Spider-Man (2000) 🕸️
 
-  Bu, **Spider-Man (2000)** için hazırladığım ücretsiz bir fan projesi. Sadece birkaç metin dosyasını değiştiren bir çeviri değil: Türkçe sürümde oyunun menüleri, açıklamaları ve oyun içi metinleri doğrudan düzenlenerek çevrildi. İngilizce ve Almanca sürümlerde ise video ara sahneleri ve uygun oyun içi anlar için altyazılar eklendi.
+### Bu proje nedir?
 
-  Projenin kalbi, oyunla birlikte otomatik çalışan Python tabanlı yardımcı yazılım. Orijinal oyunda altyazı desteği olmadığı için DuckStation açıldığında bu yazılım da devreye giriyor; oyun penceresindeki sahneyi tanıyor ve doğru anda ekrana uygun altyazıyı getiriyor. Yani altyazılar önceden videoya yapıştırılmış değil, oynayışına göre canlı olarak ekrana geliyor.
+Bu, **Spider-Man (2000)** için hazırladığım ücretsiz bir fan projesi. Sadece birkaç metin dosyasını değiştiren bir çeviri değil: Türkçe sürümde oyunun menüleri, açıklamaları ve oyun içi metinleri doğrudan düzenlenerek çevrildi. İngilizce ve Almanca sürümlerde ise video ara sahneleri ve uygun oyun içi anlar için altyazılar eklendi.
 
-  <details>
-    <summary><strong>Nasıl çalışıyor?</strong></summary>
-    <br>
+Projenin kalbi, oyunla birlikte otomatik çalışan Python tabanlı yardımcı yazılım. Orijinal oyunda altyazı desteği olmadığı için DuckStation açıldığında bu yazılım da devreye giriyor; oyun penceresindeki sahneyi tanıyor ve doğru anda uygun altyazıyı ekrana getiriyor. Yani altyazılar önceden videoya yapıştırılmış değil, oynayışına göre canlı olarak gösteriliyor.
 
-    - Oyunun sahnesi, önceden hazırlanmış görsel eşleşmelerle tanınır.
-    - Eşleşen sahnenin Türkçe, İngilizce veya Almanca altyazısı ekranda gösterilir.
-    - Dil seçimi launcher üzerinden yapılır; altyazı sistemi oyunla birlikte otomatik başlar.
-    - Görüntü eşleştirmeye dayandığı için çok nadir durumlarda yanlış sahne algılanabilir.
-  </details>
+<details>
+<summary><strong>Nasıl çalışıyor?</strong></summary>
 
-  ### İndir
+<br>
 
-  Windows için kurulum paketi hazır. İndirme sayfasındaki dosyaları aynı klasöre indirip **Setup.exe**'yi çalıştırman yeterli. Linux için ise **.deb** paketi parçalar halinde sunuluyor, indirme sayfasındaki talimatı takip ederek birleştirebilirsin. Her iki durumda da ardından sende bulunan uygun BIN dosyasını ve PlayStation BIOS'unu seç.
+- Oyunun sahnesi, önceden hazırlanmış görsel eşleşmelerle tanınır.
+- Eşleşen sahnenin Türkçe, İngilizce veya Almanca altyazısı ekranda gösterilir.
+- Dil seçimi launcher üzerinden yapılır ve altyazı sistemi oyunla birlikte otomatik başlar.
+- Görüntü eşleştirmeye dayandığı için çok nadir durumlarda yanlış sahne algılanabilir.
 
-  <div align="center">
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-windows">
-      <img src="https://img.shields.io/badge/Windows-İndir-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Windows sürümünü indir">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-linux">
-      <img src="https://img.shields.io/badge/Linux-İndir-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux sürümünü indir">
-    </a>
-  </div>
+</details>
 
-  ### Gerekli dosyalar
+### İndir
 
-  Bu proje oyun veya PlayStation BIOS dosyalarını içermez. Oynamak için ihtiyacın olan tek şey uyumlu bir oyun BIN dosyası ve PlayStation 1 BIOS dosyasıdır. İlk kurulumda bunları seçmen yeterli olur. Türkçe ve İngilizce sürümler için **SLES-02886**, Almanca sürüm için **SLES-02888** kullanılır.
+Windows için kurulum paketi hazır. İndirme sayfasındaki dosyaları aynı klasöre indirip **Setup.exe** dosyasını çalıştırman yeterli.
 
-  <img src="assets/web-divider.svg" width="100%" alt="">
+Linux için **.deb** paketi parçalar hâlinde sunuluyor. İndirme sayfasındaki talimatları takip ederek parçaları birleştirebilirsin.
 
-  ## 🌟 Special Credits
+Her iki sürümde de kurulum sırasında kendi uyumlu oyun BIN dosyanı ve PlayStation BIOS dosyanı seçmen gerekir.
 
-  <div align="center">
-    <a href="https://www.youtube.com/@retroloji">
-      <img src="assets/retroloji.webp" width="140" alt="Retroloji">
-    </a>
-    <br><br>
-    <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
-    Geçmişimizi şekillendiren yapıtların izini süren retro kazıları.
-    <br><br>
-    Bu projedeki desteği için Retroloji'ye teşekkürler.
-  </div>
+<div align="center">
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-windows">
+<img src="https://img.shields.io/badge/Windows-İndir-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Windows sürümünü indir">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-linux">
+<img src="https://img.shields.io/badge/Linux-İndir-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux sürümünü indir">
+</a>
+</div>
 
-  ## ☕ Bir kahve ısmarla
+### Gerekli dosyalar
 
-  Bu projeyi beğendiysen ve bana bir kahve ısmarlamak istersen aşağıdaki destek bağlantısını kullanabilirsin. Destek tamamen isteğe bağlıdır; proje her zaman ücretsiz kalacak.
+Bu proje oyun veya PlayStation BIOS dosyalarını içermez. Oynamak için uyumlu bir oyun BIN dosyasına ve PlayStation 1 BIOS dosyasına sahip olman gerekir. İlk kurulum sırasında bu dosyaları seçmen yeterlidir.
 
-  <div align="center">
-    <a href="https://github.com/sponsors/kusbakisiyt">
-      <img src="assets/coffee-button.svg" width="520" alt="Bir kahve ısmarlamak için GitHub Sponsors">
-    </a>
-  </div>
+Türkçe ve İngilizce sürümler için **SLES-02886**, Almanca sürüm için **SLES-02888** kullanılır.
+
+<img src="assets/web-divider.svg" width="100%" alt="">
+
+## 🌟 Özel Teşekkürler
+
+<div align="center">
+<a href="https://www.youtube.com/@retroloji">
+<img src="assets/retroloji.webp" width="180" alt="Retroloji">
+</a>
+
+<h3>
+<a href="https://www.youtube.com/@retroloji">Retroloji</a>
+</h3>
+
+<p>
+<em>Geçmişimizi ve bugünümüzü şekillendiren yapıtların izini süren retro kazıları.</em>
+</p>
+
+<p>
+Bu projenin hazırlanma sürecinde verdiği değerli destek için<br>
+<strong>Retroloji'ye içten teşekkürler.</strong>
+</p>
+
+<p>
+Projeye verdiği destek ve retro oyun kültürüne sunduğu katkılar benim için çok değerli.
+</p>
+
+<a href="https://www.youtube.com/@retroloji">
+<img src="https://img.shields.io/badge/YouTube-Retroloji-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Retroloji YouTube kanalını ziyaret et">
+</a>
+</div>
+
+<img src="assets/web-divider.svg" width="100%" alt="">
+
+## ☕ Bir kahve ısmarla
+
+Bu projeyi beğendiysen ve bana bir kahve ısmarlamak istersen aşağıdaki destek bağlantısını kullanabilirsin. Destek tamamen isteğe bağlıdır; proje her zaman ücretsiz kalacak.
+
+<div align="center">
+<a href="https://github.com/sponsors/kusbakisiyt">
+<img src="assets/coffee-button.svg" width="520" alt="Bir kahve ısmarlamak için GitHub Sponsors">
+</a>
+</div>
+
 </details>
 
 <details>
-  <summary><strong>English</strong></summary>
-  <br>
+<summary><strong>🇬🇧 English</strong></summary>
 
-  ## Hello 👋
+<br>
 
-  I'm **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I share the game projects I explore and work on.
+## Hello 👋
 
-  **Kuş Bakışı** means "bird's-eye view" in Turkish. The name was inspired by the cockatiel that has been by my side since 2020, and by the idea of looking at games from a different angle. You can just call me **Birdman**.
+I'm **Kuş Bakışı**. I review games from an honest perspective, share my first impressions and real experiences, and look beyond what is popular to find great games that may have been overlooked. Alongside my YouTube videos, I share the game projects I explore and work on.
 
-  ## Spider-Man (2000) 🕸️
+**Kuş Bakışı** means “bird's-eye view” in Turkish. The name was inspired by the cockatiel that has been by my side since 2020, and by the idea of looking at games from a different angle. You can simply call me **Birdman**.
 
-  ### What is this project?
+## Spider-Man (2000) 🕸️
 
-  This is my free fan project for **Spider-Man (2000)**. It is more than a simple text replacement: the Turkish version modifies and translates the game's menus, descriptions, and in-game text. The English and German versions add subtitles to video cutscenes and relevant in-game moments.
+### What is this project?
 
-  At the heart of the project is a Python based companion app that starts automatically with the game. Since the original game has no subtitle support, it recognises the current scene in the DuckStation window and places the matching subtitle on screen at the right moment. The subtitles are not baked into the videos: they appear live as you play.
+This is my free fan project for **Spider-Man (2000)**. It is more than a simple text replacement: the Turkish version modifies and translates the game's menus, descriptions and in-game text. The English and German versions add subtitles to video cutscenes and relevant in-game moments.
 
-  <details>
-    <summary><strong>How does it work?</strong></summary>
-    <br>
+At the heart of the project is a Python-based companion app that starts automatically with the game. Since the original game has no subtitle support, it recognises the current scene in the DuckStation window and displays the matching subtitle at the right moment. The subtitles are not baked into the videos; they appear live as you play.
 
-    - Prepared visual matches recognise the current game scene.
-    - The matching Turkish, English, or German subtitle is shown on screen.
-    - The launcher selects the language and starts the subtitle system automatically.
-    - Because it relies on image matching, the system may very rarely recognise the wrong scene.
-  </details>
+<details>
+<summary><strong>How does it work?</strong></summary>
 
-  ### Download
+<br>
 
-  The Windows setup package is ready. Download the files from the download page into the same folder, then run **Setup.exe**. For Linux, a **.deb** package is provided in split parts — follow the instructions on the download page to merge them. Either way, afterwards select your own compatible BIN file and PlayStation BIOS.
+- Prepared visual matches recognise the current game scene.
+- The matching Turkish, English or German subtitle is shown on screen.
+- The launcher selects the language and starts the subtitle system automatically.
+- Because it relies on image matching, the system may very rarely recognise the wrong scene.
 
-  <div align="center">
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-windows">
-      <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Download the Windows release">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-linux">
-      <img src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Download the Linux release">
-    </a>
-  </div>
+</details>
 
-  ### Required files
+### Download
 
-  This project does not include game or PlayStation BIOS files. All you need to play is a compatible game BIN file and a PlayStation 1 BIOS file. During the first setup, simply select them. Use **SLES-02886** for Turkish and English, and **SLES-02888** for German.
+The Windows setup package is ready. Download the files from the release page into the same folder, then run **Setup.exe**.
 
-  <img src="assets/web-divider.svg" width="100%" alt="">
+For Linux, the **.deb** package is provided in split parts. Follow the instructions on the release page to merge them.
 
-  ## 🌟 Special Credits
+During setup, you will need to select your own compatible game BIN file and PlayStation BIOS.
 
-  <div align="center">
-    <a href="https://www.youtube.com/@retroloji">
-      <img src="assets/retroloji.webp" width="140" alt="Retroloji">
-    </a>
-    <br><br>
-    <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
-    Retro deep dives into the works that shaped our past and present.
-    <br><br>
-    Thanks to Retroloji for supporting this project.
-  </div>
+<div align="center">
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-windows">
+<img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Download the Windows release">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-linux">
+<img src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Download the Linux release">
+</a>
+</div>
 
-  ## ☕ Buy me a coffee
+### Required files
 
-  If you enjoyed this project and would like to buy me a coffee, you can use the support link below. Support is completely optional; the project will always remain free.
+This project does not include the game or any PlayStation BIOS files. You need a compatible game BIN file and a PlayStation 1 BIOS file to play. Simply select them during the first setup.
 
-  <div align="center">
-    <a href="https://github.com/sponsors/kusbakisiyt">
-      <img src="assets/coffee-button.svg" width="520" alt="Buy me a coffee through GitHub Sponsors">
-    </a>
-  </div>
+Use **SLES-02886** for Turkish and English, and **SLES-02888** for German.
+
+<img src="assets/web-divider.svg" width="100%" alt="">
+
+## 🌟 Special Thanks
+
+<div align="center">
+<a href="https://www.youtube.com/@retroloji">
+<img src="assets/retroloji.webp" width="180" alt="Retroloji">
+</a>
+
+<h3>
+<a href="https://www.youtube.com/@retroloji">Retroloji</a>
+</h3>
+
+<p>
+<em>Retro deep dives into the works that shaped our past and present.</em>
+</p>
+
+<p>
+A sincere thank-you to <strong>Retroloji</strong><br>
+for the valuable support given during the development of this project.
+</p>
+
+<p>
+The support for this project and the contribution to retro gaming culture mean a great deal to me.
+</p>
+
+<a href="https://www.youtube.com/@retroloji">
+<img src="https://img.shields.io/badge/YouTube-Retroloji-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Retroloji on YouTube">
+</a>
+</div>
+
+<img src="assets/web-divider.svg" width="100%" alt="">
+
+## ☕ Buy me a coffee
+
+If you enjoyed this project and would like to buy me a coffee, you can use the support link below. Support is completely optional; the project will always remain free.
+
+<div align="center">
+<a href="https://github.com/sponsors/kusbakisiyt">
+<img src="assets/coffee-button.svg" width="520" alt="Buy me a coffee through GitHub Sponsors">
+</a>
+</div>
+
 </details>
 
 <details>
-  <summary><strong>Deutsch</strong></summary>
-  <br>
+<summary><strong>🇩🇪 Deutsch</strong></summary>
 
-  ## Hallo 👋
+<br>
 
-  Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube Videos teile ich die Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
+## Hallo 👋
 
-  **Kuş Bakışı** bedeutet auf Türkisch „Vogelperspektive". Der Name wurde von meinem Nymphensittich inspiriert, der seit 2020 an meiner Seite ist, sowie von der Idee, Spiele aus einem anderen Blickwinkel zu betrachten. Ihr könnt mich einfach **Vogelmann** nennen.
+Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive, teile meine ersten Eindrücke und echten Erfahrungen und suche neben bekannten Titeln auch nach großartigen Spielen, die leicht übersehen werden. Neben meinen YouTube-Videos teile ich Spieleprojekte, die mich neugierig machen und an denen ich arbeite.
 
-  ## Spider-Man (2000) 🕸️
+**Kuş Bakışı** bedeutet auf Türkisch „Vogelperspektive“. Der Name wurde von meinem Nymphensittich inspiriert, der seit 2020 an meiner Seite ist, sowie von der Idee, Spiele aus einem anderen Blickwinkel zu betrachten. Du kannst mich einfach **Vogelmann** nennen.
 
-  ### Was ist dieses Projekt?
+## Spider-Man (2000) 🕸️
 
-  Dies ist mein kostenloses Fanprojekt für **Spider-Man (2000)**. Es ist mehr als ein einfacher Textersatz: In der türkischen Version wurden Menüs, Beschreibungen und Spieltexte direkt im Spiel überarbeitet und übersetzt. Für die englische und deutsche Version wurden Untertitel für Video Zwischensequenzen und passende Spielszenen ergänzt.
+### Was ist dieses Projekt?
 
-  Das Herzstück des Projekts ist eine Python basierte Begleitsoftware, die automatisch zusammen mit dem Spiel startet. Da das Original keine Untertitel unterstützt, erkennt sie die aktuelle Szene im DuckStation Fenster und blendet den passenden Untertitel im richtigen Moment ein. Die Untertitel sind nicht fest in die Videos eingebrannt, sondern erscheinen während des Spielens.
+Dies ist mein kostenloses Fanprojekt für **Spider-Man (2000)**. Es ist mehr als ein einfacher Textersatz: In der türkischen Version wurden Menüs, Beschreibungen und Spieltexte direkt im Spiel überarbeitet und übersetzt. Für die englische und deutsche Version wurden Untertitel für Video-Zwischensequenzen und passende Spielszenen ergänzt.
 
-  <details>
-    <summary><strong>Wie funktioniert es?</strong></summary>
-    <br>
+Das Herzstück des Projekts ist eine Python-basierte Begleitsoftware, die automatisch zusammen mit dem Spiel startet. Da das Original keine Untertitel unterstützt, erkennt sie die aktuelle Szene im DuckStation-Fenster und blendet den passenden Untertitel im richtigen Moment ein. Die Untertitel sind nicht fest in die Videos eingebrannt, sondern erscheinen live während des Spielens.
 
-    - Vorbereitete visuelle Vergleichsdaten erkennen die aktuelle Spielszene.
-    - Der passende türkische, englische oder deutsche Untertitel wird eingeblendet.
-    - Der Launcher wählt die Sprache und startet das Untertitelsystem automatisch.
-    - Da das System auf Bildabgleichen basiert, kann es sehr selten eine falsche Szene erkennen.
-  </details>
+<details>
+<summary><strong>Wie funktioniert es?</strong></summary>
 
-  ### Herunterladen
+<br>
 
-  Das Windows Setup Paket ist bereit. Lade die Dateien von der Download Seite in denselben Ordner und starte anschließend **Setup.exe**. Für Linux wird ein **.deb** Paket in mehreren Teilen bereitgestellt — folge der Anleitung auf der Download Seite, um sie zusammenzufügen. Wähle danach in jedem Fall deine eigene kompatible BIN Datei und dein PlayStation BIOS aus.
+- Vorbereitete visuelle Vergleichsdaten erkennen die aktuelle Spielszene.
+- Der passende türkische, englische oder deutsche Untertitel wird eingeblendet.
+- Der Launcher wählt die Sprache und startet das Untertitelsystem automatisch.
+- Da das System auf Bildabgleichen basiert, kann es sehr selten eine falsche Szene erkennen.
 
-  <div align="center">
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-windows">
-      <img src="https://img.shields.io/badge/Windows-Herunterladen-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Windows Version herunterladen">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/kusbakisiyt/kusbakisiyt/releases/tag/v1.1.3-linux">
-      <img src="https://img.shields.io/badge/Linux-Herunterladen-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux Version herunterladen">
-    </a>
-  </div>
+</details>
 
-  ### Benötigte Dateien
+### Herunterladen
 
-  Dieses Projekt enthält keine Spiel oder PlayStation BIOS Dateien. Zum Spielen benötigst du nur eine kompatible Spiel BIN Datei und eine PlayStation 1 BIOS Datei. Bei der ersten Einrichtung wählst du diese einfach aus. Für Türkisch und Englisch wird **SLES-02886**, für Deutsch **SLES-02888** benötigt.
+Das Windows-Setup-Paket ist bereit. Lade die Dateien von der Release-Seite in denselben Ordner herunter und starte anschließend **Setup.exe**.
 
-  <img src="assets/web-divider.svg" width="100%" alt="">
+Für Linux wird das **.deb**-Paket in mehreren Teilen bereitgestellt. Folge den Anweisungen auf der Release-Seite, um die Teile zusammenzufügen.
 
-  ## 🌟 Special Credits
+Während der Einrichtung musst du deine eigene kompatible BIN-Datei des Spiels und dein PlayStation-BIOS auswählen.
 
-  <div align="center">
-    <a href="https://www.youtube.com/@retroloji">
-      <img src="assets/retroloji.webp" width="140" alt="Retroloji">
-    </a>
-    <br><br>
-    <a href="https://www.youtube.com/@retroloji"><strong>Retroloji</strong></a><br>
-    Retro Ausgrabungen zu Werken, die unsere Vergangenheit und Gegenwart geprägt haben.
-    <br><br>
-    Danke an Retroloji für die Unterstützung dieses Projekts.
-  </div>
+<div align="center">
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-windows">
+<img src="https://img.shields.io/badge/Windows-Herunterladen-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="260" alt="Windows-Version herunterladen">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-linux">
+<img src="https://img.shields.io/badge/Linux-Herunterladen-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux-Version herunterladen">
+</a>
+</div>
 
-  ## ☕ Spendier mir einen Kaffee
+### Benötigte Dateien
 
-  Wenn dir dieses Projekt gefällt und du mir einen Kaffee spendieren möchtest, kannst du den Unterstützungslink unten verwenden. Die Unterstützung ist vollkommen freiwillig; das Projekt bleibt immer kostenlos.
+Dieses Projekt enthält weder das Spiel noch PlayStation-BIOS-Dateien. Zum Spielen benötigst du eine kompatible BIN-Datei des Spiels und eine PlayStation-1-BIOS-Datei. Bei der ersten Einrichtung wählst du diese einfach aus.
 
-  <div align="center">
-    <a href="https://github.com/sponsors/kusbakisiyt">
-      <img src="assets/coffee-button.svg" width="520" alt="Unterstütze das Projekt über GitHub Sponsors">
-    </a>
-  </div>
+Für Türkisch und Englisch wird **SLES-02886**, für Deutsch **SLES-02888** benötigt.
+
+<img src="assets/web-divider.svg" width="100%" alt="">
+
+## 🌟 Besonderer Dank
+
+<div align="center">
+<a href="https://www.youtube.com/@retroloji">
+<img src="assets/retroloji.webp" width="180" alt="Retroloji">
+</a>
+
+<h3>
+<a href="https://www.youtube.com/@retroloji">Retroloji</a>
+</h3>
+
+<p>
+<em>Retro-Ausgrabungen zu Werken, die unsere Vergangenheit und Gegenwart geprägt haben.</em>
+</p>
+
+<p>
+Ein herzliches Dankeschön an <strong>Retroloji</strong><br>
+für die wertvolle Unterstützung bei der Entwicklung dieses Projekts.
+</p>
+
+<p>
+Die Unterstützung dieses Projekts und der Beitrag zur Retro-Gaming-Kultur bedeuten mir sehr viel.
+</p>
+
+<a href="https://www.youtube.com/@retroloji">
+<img src="https://img.shields.io/badge/YouTube-Retroloji-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Retroloji auf YouTube besuchen">
+</a>
+</div>
+
+<img src="assets/web-divider.svg" width="100%" alt="">
+
+## ☕ Spendier mir einen Kaffee
+
+Wenn dir dieses Projekt gefällt und du mir einen Kaffee spendieren möchtest, kannst du den Unterstützungslink unten verwenden. Die Unterstützung ist vollkommen freiwillig; das Projekt bleibt immer kostenlos.
+
+<div align="center">
+<a href="https://github.com/sponsors/kusbakisiyt">
+<img src="assets/coffee-button.svg" width="520" alt="Unterstütze das Projekt über GitHub Sponsors">
+</a>
+</div>
+
 </details>
