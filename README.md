@@ -1,3 +1,4 @@
+<div align="center">
 <img src="assets/kus-bakisi-banner.webp" width="100%" alt="Kuş Bakışı, gece şehri ve ağ desenli profil kapağı">
 <img src="assets/profile-title.svg" width="100%" alt="Kuş Bakışı, oyunlara farklı bir bakış">
 
@@ -31,21 +32,50 @@ Ben **Kuş Bakışı**. Oyunları objektif bir bakışla inceliyor, ilk izleniml
 
 ### Bu proje nedir?
 
-Bu, **Spider-Man (2000)** için hazırladığım ücretsiz bir fan projesi. Sadece birkaç metin dosyasını değiştiren bir çeviri değil: Türkçe sürümde oyunun menüleri, açıklamaları ve oyun içi metinleri doğrudan düzenlenerek çevrildi. İngilizce ve Almanca sürümlerde ise video ara sahneleri ve uygun oyun içi anlar için altyazılar eklendi.
+Bu, **Spider-Man (2000)** için hazırladığım ücretsiz bir fan projesi. Türkçe sürümde oyunun menüleri ve açıklamaları doğrudan düzenlenerek çevrildi. Türkçe, İngilizce ve Almanca sürümlerde video ara sahnelerine altyazılar eklendi.
 
-Projenin kalbi, oyunla birlikte otomatik çalışan Python tabanlı yardımcı yazılım. Orijinal oyunda altyazı desteği olmadığı için DuckStation açıldığında bu yazılım da devreye giriyor; oyun penceresindeki sahneyi tanıyor ve doğru anda uygun altyazıyı ekrana getiriyor. Yani altyazılar önceden videoya yapıştırılmış değil, oynayışına göre canlı olarak gösteriliyor.
+Orijinal oyunda, oyun motoruyla gerçekleşen sahneler ve oyun sırasındaki konuşmalar için yerleşik bir altyazı sistemi bulunmuyor. Bu sahneler için oyunla birlikte otomatik çalışan Python tabanlı bir yardımcı yazılım kullanılıyor. Yazılım, DuckStation penceresindeki sahneyi tanıyor ve uygun altyazıyı doğru anda oyun görüntüsünün üzerine getiriyor. Böylece video ara sahnelerindeki altyazılar doğrudan oyun dosyasındaki videolarda yer alırken, oyun motoruyla gerçekleşen sahnelerin altyazıları canlı olarak gösteriliyor.
 
 <details>
 <summary><strong>Nasıl çalışıyor?</strong></summary>
 
 <br>
 
-- Oyunun sahnesi, önceden hazırlanmış görsel eşleşmelerle tanınır.
-- Eşleşen sahnenin Türkçe, İngilizce veya Almanca altyazısı ekranda gösterilir.
-- Dil seçimi launcher üzerinden yapılır ve altyazı sistemi oyunla birlikte otomatik başlar.
+- Video ara sahnelerinin altyazıları doğrudan oyun dosyasındaki videolara eklenmiştir.
+- Oyun motoruyla gerçekleşen sahneler, önceden hazırlanmış görsel eşleşmelerle tanınır.
+- Eşleşen sahnenin Türkçe, İngilizce veya Almanca altyazısı ekranda canlı olarak gösterilir.
+- Dil seçimi launcher üzerinden yapılır ve canlı altyazı sistemi oyunla birlikte otomatik başlar.
 - Görüntü eşleştirmeye dayandığı için çok nadir durumlarda yanlış sahne algılanabilir.
 
 </details>
+
+
+### 🖼️ Ekran görüntüleri
+
+#### 🎞️ Video ara sahnesi
+
+Video ara sahnelerindeki altyazılar doğrudan oyun dosyasındaki videolara eklenmiştir.
+
+<div align="center">
+<img src="assets/screenshots/tr/video-ara-sahnesi.png" width="90%" alt="Spider-Man 2000 Türkçe altyazılı video ara sahnesi">
+</div>
+
+#### 🎮 Canlı oyun içi altyazılar
+
+Oyun motoruyla gerçekleşen sahnelerdeki altyazılar, Windows ve Linux sürümleriyle birlikte çalışan canlı altyazı sistemi tarafından oyun görüntüsünün üzerine getiriliyor.
+
+<p align="center">
+<img src="assets/screenshots/tr/canli-altyazi-stan-lee.png" width="49%" alt="Spider-Man 2000 Türkçe canlı altyazı, Stan Lee sahnesi">
+<img src="assets/screenshots/tr/canli-altyazi-black-cat.png" width="49%" alt="Spider-Man 2000 Türkçe canlı altyazı, Black Cat sahnesi">
+</p>
+
+#### 🕹️ Türkçe arayüz
+
+Türkçe sürümden bir yönlendirme metni örneği:
+
+<div align="center">
+<img src="assets/screenshots/tr/turkce-yonlendirme-metni.png" width="90%" alt="Spider-Man 2000 Türkçe yönlendirme metni">
+</div>
 
 ### İndir
 
@@ -63,7 +93,21 @@ Her iki sürümde de kurulum sırasında kendi uyumlu oyun BIN dosyanı ve PlayS
 <a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-linux">
 <img src="https://img.shields.io/badge/Linux-İndir-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux sürümünü indir">
 </a>
+
+<br><br>
+
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-console-xdelta">
+<img src="https://img.shields.io/badge/PS1%20%2F%20PS2%20%2F%20PS3-xdelta%20Yamaları-6F42C1?style=for-the-badge&logo=playstation&logoColor=white" width="380" alt="PS1, PS2 ve PS3 için xdelta yamalarını indir">
+</a>
 </div>
+
+#### 🎮 PS1 / PS2 / PS3 ve elle kurulum
+
+PlayStation konsollarında, uyumlu emülatörlerde veya kendi tercih ettiği yöntemle oynamak isteyenler için bağımsız xdelta yamaları da bulunuyor.
+
+xdelta dosyaları oyunun kendisi değildir. Uyumlu yamayı bir xdelta programıyla kendi değiştirilmemiş oyun BIN dosyana uygulaman gerekir.
+
+Konsollarda Python tabanlı canlı altyazı yazılımı çalışmadığı için video ara sahnelerindeki altyazılar görüntülenir; oyun motoruyla gerçekleşen konuşmalı sahnelerdeki canlı altyazılar ise kullanılamaz. Türkçe xdelta yaması ayrıca Türkçe menüleri ve açıklamaları içerir.
 
 ### Gerekli dosyalar
 
@@ -142,21 +186,47 @@ I'm **Kuş Bakışı**. I review games from an honest perspective, share my firs
 
 ### What is this project?
 
-This is my free fan project for **Spider-Man (2000)**. It is more than a simple text replacement: the Turkish version modifies and translates the game's menus, descriptions and in-game text. The English and German versions add subtitles to video cutscenes and relevant in-game moments.
+This is my free fan project for **Spider-Man (2000)**. The Turkish version directly translates the game's menus and descriptions. Turkish, English and German subtitles have also been added to the video cutscenes.
 
-At the heart of the project is a Python-based companion app that starts automatically with the game. Since the original game has no subtitle support, it recognises the current scene in the DuckStation window and displays the matching subtitle at the right moment. The subtitles are not baked into the videos; they appear live as you play.
+The original game has no built-in subtitle system for scenes rendered by the game engine or dialogue heard during gameplay. These scenes are handled by a Python-based companion app that starts automatically with the game. The app recognises the current scene in the DuckStation window and displays the matching subtitle at the right moment. Video cutscene subtitles are added directly to the videos in the game image, while subtitles for scenes rendered by the game engine are displayed live by the companion app.
 
 <details>
 <summary><strong>How does it work?</strong></summary>
 
 <br>
 
-- Prepared visual matches recognise the current game scene.
-- The matching Turkish, English or German subtitle is shown on screen.
-- The launcher selects the language and starts the subtitle system automatically.
+- Video cutscene subtitles are added directly to the videos stored in the game image.
+- Scenes rendered by the game engine are recognised through prepared visual matches.
+- The matching Turkish, English or German subtitle is displayed live on screen.
+- The launcher selects the language and starts the live subtitle system automatically.
 - Because it relies on image matching, the system may very rarely recognise the wrong scene.
 
 </details>
+
+
+### 🖼️ Screenshots
+
+#### 🎞️ Video cutscenes
+
+Subtitles for video cutscenes are added directly to the videos stored in the game image.
+
+<p align="center">
+<img src="assets/screenshots/en/video-cutscene-dr-octavius.png" width="49%" alt="Spider-Man 2000 video cutscene with English subtitles, Dr. Octavius">
+<img src="assets/screenshots/en/video-cutscene-executive.png" width="49%" alt="Spider-Man 2000 video cutscene with English subtitles, executive scene">
+</p>
+
+#### 🎮 Live in-game subtitles
+
+The original game has no built-in subtitle support for scenes rendered by the game engine. In the Windows and Linux versions, these subtitles are displayed over the game by the live subtitle system.
+
+<p align="center">
+<img src="assets/screenshots/en/live-subtitle-stan-lee.png" width="49%" alt="Spider-Man 2000 English live subtitle, Stan Lee scene">
+<img src="assets/screenshots/en/live-subtitle-black-cat.png" width="49%" alt="Spider-Man 2000 English live subtitle, Black Cat scene">
+</p>
+
+<div align="center">
+<img src="assets/screenshots/en/live-subtitle-spidey-compass.png" width="75%" alt="Spider-Man 2000 English live subtitle, Spidey-compass scene">
+</div>
 
 ### Download
 
@@ -174,7 +244,21 @@ During setup, you will need to select your own compatible game BIN file and Play
 <a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-linux">
 <img src="https://img.shields.io/badge/Linux-Download-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Download the Linux release">
 </a>
+
+<br><br>
+
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-console-xdelta">
+<img src="https://img.shields.io/badge/PS1%20%2F%20PS2%20%2F%20PS3-xdelta%20Patches-6F42C1?style=for-the-badge&logo=playstation&logoColor=white" width="380" alt="Download the PS1, PS2 and PS3 xdelta patches">
+</a>
 </div>
+
+#### 🎮 PS1 / PS2 / PS3 and manual installation
+
+Standalone xdelta patches are available for users who want to play on a PlayStation console, a compatible emulator or another supported environment.
+
+The xdelta files are not complete game images. Apply the appropriate patch to your own unmodified game BIN file using a compatible xdelta patching program.
+
+The Python-based live subtitle software cannot run on PlayStation consoles. As a result, subtitles added directly to the video cutscenes will be displayed, while live subtitles for dialogue scenes rendered by the game engine will not be available.
 
 ### Required files
 
@@ -253,21 +337,47 @@ Ich bin **Kuş Bakışı**. Ich betrachte Spiele aus einer ehrlichen Perspektive
 
 ### Was ist dieses Projekt?
 
-Dies ist mein kostenloses Fanprojekt für **Spider-Man (2000)**. Es ist mehr als ein einfacher Textersatz: In der türkischen Version wurden Menüs, Beschreibungen und Spieltexte direkt im Spiel überarbeitet und übersetzt. Für die englische und deutsche Version wurden Untertitel für Video-Zwischensequenzen und passende Spielszenen ergänzt.
+Dies ist mein kostenloses Fanprojekt für **Spider-Man (2000)**. In der türkischen Version wurden die Menüs und Beschreibungen direkt übersetzt. Außerdem wurden den Video-Zwischensequenzen türkische, englische und deutsche Untertitel hinzugefügt.
 
-Das Herzstück des Projekts ist eine Python-basierte Begleitsoftware, die automatisch zusammen mit dem Spiel startet. Da das Original keine Untertitel unterstützt, erkennt sie die aktuelle Szene im DuckStation-Fenster und blendet den passenden Untertitel im richtigen Moment ein. Die Untertitel sind nicht fest in die Videos eingebrannt, sondern erscheinen live während des Spielens.
+Das Originalspiel besitzt kein integriertes Untertitel-System für Szenen, die von der Spielengine dargestellt werden, oder für Dialoge während des Spiels. Für diese Szenen wird eine Python-basierte Begleitsoftware verwendet, die automatisch zusammen mit dem Spiel startet. Sie erkennt die aktuelle Szene im DuckStation-Fenster und blendet den passenden Untertitel im richtigen Moment ein. Die Untertitel der Video-Zwischensequenzen sind direkt in die Videos der Spieldatei eingefügt, während die Untertitel der von der Spielengine dargestellten Szenen live von der Begleitsoftware angezeigt werden.
 
 <details>
 <summary><strong>Wie funktioniert es?</strong></summary>
 
 <br>
 
-- Vorbereitete visuelle Vergleichsdaten erkennen die aktuelle Spielszene.
-- Der passende türkische, englische oder deutsche Untertitel wird eingeblendet.
-- Der Launcher wählt die Sprache und startet das Untertitelsystem automatisch.
+- Die Untertitel der Video-Zwischensequenzen sind direkt in die Videos der Spieldatei eingefügt.
+- Von der Spielengine dargestellte Szenen werden anhand vorbereiteter visueller Vergleichsdaten erkannt.
+- Der passende türkische, englische oder deutsche Untertitel wird live eingeblendet.
+- Der Launcher wählt die Sprache und startet das Live-Untertitel-System automatisch.
 - Da das System auf Bildabgleichen basiert, kann es sehr selten eine falsche Szene erkennen.
 
 </details>
+
+
+### 🖼️ Screenshots
+
+#### 🎞️ Video-Zwischensequenzen
+
+Die Untertitel der Video-Zwischensequenzen sind direkt in die Videos der Spieldatei eingefügt.
+
+<p align="center">
+<img src="assets/screenshots/de/video-zwischensequenz-dr-octavius.png" width="49%" alt="Spider-Man 2000 Video-Zwischensequenz mit deutschen Untertiteln, Dr. Octavius">
+<img src="assets/screenshots/de/video-zwischensequenz-managerin.png" width="49%" alt="Spider-Man 2000 Video-Zwischensequenz mit deutschen Untertiteln, Managerin">
+</p>
+
+#### 🎮 Live-Untertitel in Spielszenen
+
+Das Originalspiel besitzt keine integrierte Untertitel-Unterstützung für Szenen, die von der Spielengine dargestellt werden. In den Windows- und Linux-Versionen werden diese Untertitel vom Live-Untertitel-System über dem Spielbild angezeigt.
+
+<p align="center">
+<img src="assets/screenshots/de/live-untertitel-stan-lee.png" width="49%" alt="Spider-Man 2000 deutsche Live-Untertitel, Stan-Lee-Szene">
+<img src="assets/screenshots/de/live-untertitel-was-ist-los.png" width="49%" alt="Spider-Man 2000 deutsche Live-Untertitel, Was-ist-los-Szene">
+</p>
+
+<div align="center">
+<img src="assets/screenshots/de/live-untertitel-bankueberfall.png" width="75%" alt="Spider-Man 2000 deutsche Live-Untertitel, Banküberfall-Szene">
+</div>
 
 ### Herunterladen
 
@@ -285,7 +395,21 @@ Während der Einrichtung musst du deine eigene kompatible BIN-Datei des Spiels u
 <a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-linux">
 <img src="https://img.shields.io/badge/Linux-Herunterladen-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="260" alt="Linux-Version herunterladen">
 </a>
+
+<br><br>
+
+<a href="https://github.com/kusbakisiyt/spider-man-2000-tr-en-de-localization/releases/tag/v1.1.3-console-xdelta">
+<img src="https://img.shields.io/badge/PS1%20%2F%20PS2%20%2F%20PS3-xdelta%20Patches-6F42C1?style=for-the-badge&logo=playstation&logoColor=white" width="380" alt="xdelta-Patches für PS1, PS2 und PS3 herunterladen">
+</a>
 </div>
+
+#### 🎮 PS1 / PS2 / PS3 und manuelle Installation
+
+Für Benutzer, die auf einer PlayStation-Konsole, einem kompatiblen Emulator oder in einer anderen unterstützten Umgebung spielen möchten, stehen eigenständige xdelta-Patches zur Verfügung.
+
+Die xdelta-Dateien sind keine vollständigen Spielabbilder. Wende den passenden Patch mit einem kompatiblen xdelta-Programm auf deine eigene unveränderte Spiel-BIN-Datei an.
+
+Die Python-basierte Live-Untertitel-Software kann nicht auf PlayStation-Konsolen ausgeführt werden. Deshalb werden die direkt in die Video-Zwischensequenzen eingefügten Untertitel angezeigt, während Live-Untertitel für von der Spielengine dargestellte Dialogszenen nicht verfügbar sind.
 
 ### Benötigte Dateien
 
