@@ -1,0 +1,30 @@
+SPIDER-MAN TURKISH-ENGLISH-DEUTSCH SETUP
+========================================
+
+TÜRKÇE
+------
+Kurulumdan sonra açılan pencerede Türkçe, English veya Deutsch seçin.
+Türkçe ve English için SLES-02886; Deutsch için SLES-02888 BIN dosyası
+istenir. PlayStation BIOS dosyanızı seçtikten sonra gerekli oyun dosyası
+otomatik hazırlanır ve doğrulanır. Kaynak BIN dosyanız değiştirilmez.
+
+ENGLISH
+-------
+After installation, select Türkçe, English or Deutsch in the launcher.
+Türkçe and English require a SLES-02886 BIN; Deutsch requires SLES-02888.
+Select your PlayStation BIOS and the required game file will be prepared and
+verified automatically. Your source BIN is not modified.
+
+DEUTSCH
+-------
+Wählen Sie nach der Installation Türkçe, English oder Deutsch im Starter.
+Türkçe und English benötigen eine SLES-02886-BIN; Deutsch benötigt
+SLES-02888. Wählen Sie Ihre PlayStation-BIOS-Datei. Die benötigte Spieldatei
+wird automatisch erstellt und überprüft. Ihre Quell-BIN wird nicht verändert.
+
+STEUERUNG / CONTROLS / CONTROLLER
+---------------------------------
+DuckStation: Settings > Controllers > Controller Port 1 > Automatic Mapping.
+Wählen Sie dort Ihr Gamepad oder Ihre Tastatur.
+Select your gamepad or keyboard there.
+Wählen Sie dort Ihr Gamepad oder Ihre Tastatur aus.

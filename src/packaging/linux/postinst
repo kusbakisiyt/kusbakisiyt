@@ -1,0 +1,28 @@
+#!/bin/sh
+set -e
+
+desktop_file=/usr/share/applications/spiderman.desktop
+
+for home_dir in /home/*; do
+    [ -d "$home_dir" ] || continue
+    user_name=$(basename "$home_dir")
+    desktop_dir="$home_dir/Desktop"
+
+    if command -v xdg-user-dir >/dev/null 2>&1; then
+        detected_dir=$(su -s /bin/sh -c 'xdg-user-dir DESKTOP 2>/dev/null' "$user_name" || true)
+        [ -n "$detected_dir" ] && desktop_dir="$detected_dir"
+    elif [ -d "$home_dir/Masaüstü" ]; then
+        desktop_dir="$home_dir/Masaüstü"
+    elif [ -d "$home_dir/Schreibtisch" ]; then
+        desktop_dir="$home_dir/Schreibtisch"
+    fi
+
+    mkdir -p "$desktop_dir"
+    install -m 755 "$desktop_file" "$desktop_dir/Spider-Man.desktop"
+    chown "$user_name:$user_name" "$desktop_dir/Spider-Man.desktop" || true
+done
+
+update-desktop-database /usr/share/applications >/dev/null 2>&1 || true
+command -v appstreamcli >/dev/null 2>&1 && appstreamcli refresh-cache --force >/dev/null 2>&1 || true
+
+exit 0

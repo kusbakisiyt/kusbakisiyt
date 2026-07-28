@@ -1,0 +1,28 @@
+#!/bin/sh
+set -e
+
+for home_dir in /home/*; do
+    [ -d "$home_dir" ] || continue
+    user_name=$(basename "$home_dir")
+    desktop_dir=""
+
+    if command -v xdg-user-dir >/dev/null 2>&1; then
+        desktop_dir=$(su -s /bin/sh -c 'xdg-user-dir DESKTOP 2>/dev/null' "$user_name" || true)
+    fi
+
+    [ -n "$desktop_dir" ] && rm -f "$desktop_dir/Spider-Man.desktop"
+    rm -f "$home_dir/Desktop/Spider-Man.desktop"
+    rm -f "$home_dir/Masaüstü/Spider-Man.desktop"
+    rm -f "$home_dir/Schreibtisch/Spider-Man.desktop"
+done
+
+case "$1" in
+    remove|purge)
+        rm -rf /opt/spiderman
+        ;;
+esac
+
+update-desktop-database /usr/share/applications >/dev/null 2>&1 || true
+command -v appstreamcli >/dev/null 2>&1 && appstreamcli refresh-cache --force >/dev/null 2>&1 || true
+
+exit 0

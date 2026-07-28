@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.kusbakisi.SpiderMan</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Spider-Man</name>
+  <summary>Choose Turkish, English or German</summary>
+  <summary xml:lang="tr">Türkçe, İngilizce veya Almanca dilini seçin</summary>
+  <summary xml:lang="de">Türkisch, Englisch oder Deutsch auswählen</summary>
+  <description>
+    <p>Launch Spider-Man with Turkish, English or German language options from one convenient application.</p>
+    <p xml:lang="tr">Spider-Man oyununu Türkçe, İngilizce veya Almanca dil seçenekleriyle tek uygulamadan başlatın.</p>
+    <p xml:lang="de">Starten Sie Spider-Man mit türkischen, englischen oder deutschen Sprachoptionen über eine Anwendung.</p>
+  </description>
+  <launchable type="desktop-id">spiderman.desktop</launchable>
+  <icon type="stock">spiderman</icon>
+  <categories>
+    <category>Game</category>
+    <category>Emulator</category>
+  </categories>
+  <keywords>
+    <keyword>Spider-Man</keyword>
+    <keyword>spiderman</keyword>
+    <keyword>Turkish</keyword>
+    <keyword>English</keyword>
+    <keyword>Deutsch</keyword>
+  </keywords>
+  <developer id="com.kusbakisi">
+    <name>Kus Bakisi</name>
+  </developer>
+  <url type="homepage">https://www.youtube.com/@kusbakisiyt</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.1.3" date="2026-07-27"/>
+    <release version="1.1.2" date="2026-07-27"/>
+    <release version="1.1.1" date="2026-07-27"/>
+    <release version="1.1.0" date="2026-07-27"/>
+    <release version="1.0.2" date="2026-07-21"/>
+  </releases>
+</component>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Spider-Man
+Comment=Choose Turkish, English or German
+Comment[tr]=Türkçe, İngilizce veya Almanca dilini seçin
+Comment[de]=Türkisch, Englisch oder Deutsch auswählen
+Exec=/opt/spiderman/SpiderManTR
+Icon=spiderman
+Terminal=false
+Categories=Game;Emulator;
+StartupNotify=true

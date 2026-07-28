@@ -1,0 +1,11 @@
+Package: spiderman-turkish-english-deutsch
+Version: 1.1.3
+Section: games
+Priority: optional
+Architecture: amd64
+Maintainer: Kus Bakisi
+Depends: libfuse2 | libfuse2t64, libgl1, libopengl0, libegl1, libx11-6, libxext6, libxrender1, libxtst6, libgtk-3-0, libxcb-cursor0, libpulse0, libasound2, libudev1, libusb-1.0-0, liblzma5, xwayland, xosd-bin, xfonts-base, wmctrl, xdotool
+Description: Spider-Man Turkish, English and German launcher
+ English: Spider-Man launcher with Turkish, English and German language options.
+ Turkce: Turkce, Ingilizce ve Almanca dil secenekli Spider-Man baslaticisi.
+ Deutsch: Spider-Man-Starter mit turkischen, englischen und deutschen Sprachoptionen.
