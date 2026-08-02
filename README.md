@@ -157,18 +157,6 @@ Projeye verdiği destek ve retro oyun kültürüne sunduğu katkılar benim içi
 </a>
 </div>
 
-<img src="assets/web-divider.svg" width="100%" alt="">
-
-## ☕ Bir kahve ısmarla
-
-Bu projeyi beğendiysen ve bana bir kahve ısmarlamak istersen aşağıdaki destek bağlantısını kullanabilirsin. Destek tamamen isteğe bağlıdır; proje her zaman ücretsiz kalacak.
-
-<div align="center">
-<a href="https://github.com/sponsors/kusbakisiyt">
-<img src="assets/coffee-button.svg" width="520" alt="Bir kahve ısmarlamak için GitHub Sponsors">
-</a>
-</div>
-
 </details>
 
 <details>
@@ -308,18 +296,6 @@ The support for this project and the contribution to retro gaming culture mean a
 </a>
 </div>
 
-<img src="assets/web-divider.svg" width="100%" alt="">
-
-## ☕ Buy me a coffee
-
-If you enjoyed this project and would like to buy me a coffee, you can use the support link below. Support is completely optional; the project will always remain free.
-
-<div align="center">
-<a href="https://github.com/sponsors/kusbakisiyt">
-<img src="assets/coffee-button.svg" width="520" alt="Buy me a coffee through GitHub Sponsors">
-</a>
-</div>
-
 </details>
 
 <details>
@@ -456,18 +432,6 @@ Die Unterstützung dieses Projekts und der Beitrag zur Retro-Gaming-Kultur bedeu
 
 <a href="https://www.youtube.com/@retroloji">
 <img src="https://img.shields.io/badge/YouTube-Retroloji-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Retroloji auf YouTube besuchen">
-</a>
-</div>
-
-<img src="assets/web-divider.svg" width="100%" alt="">
-
-## ☕ Spendier mir einen Kaffee
-
-Wenn dir dieses Projekt gefällt und du mir einen Kaffee spendieren möchtest, kannst du den Unterstützungslink unten verwenden. Die Unterstützung ist vollkommen freiwillig; das Projekt bleibt immer kostenlos.
-
-<div align="center">
-<a href="https://github.com/sponsors/kusbakisiyt">
-<img src="assets/coffee-button.svg" width="520" alt="Unterstütze das Projekt über GitHub Sponsors">
 </a>
 </div>
 
